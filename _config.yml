@@ -1,5 +1,7 @@
 title: Yuto Yokoyama
 description: Personal website
+url: "https://yuto-yokoyama.github.io"
+baseurl: ""
 
 remote_theme: jekyll/minima
 plugins:
@@ -8,8 +10,8 @@ plugins:
 minima:
   skin: auto
   nav_pages:
-  - index.md
-  - news.md
-  - publications.md
-  - presentations.md
-  - cv.md
+    - index.md
+    - news.md
+    - publications.md
+    - presentations.md
+    - cv.md
