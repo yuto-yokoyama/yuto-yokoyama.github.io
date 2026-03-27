@@ -2,12 +2,14 @@
 title: Home
 ---
 
-# **Yuto Yokoyama (横山 裕杜)**
-Postdoctoral Fellow, King Abludlah University of Science and Tehnology (KAUST)
-
 <div style="display: flex; align-items: flex-start; gap: 24px; flex-wrap: wrap;">
 
   <div style="flex: 1; min-width: 280px;">
+    <p>
+      # **Yuto Yokoyama (横山 裕杜)**
+      Postdoctoral Fellow, King Abludlah University of Science and Tehnology (KAUST)
+    </p>
+
     <p>
       I am a postdoctoral fellow in the Splash Lab (Prof. Tadd Truscott) at King Abdullah University of Science and Technology (KAUST), Saudi Arabia. From April 2024 to January 2026, I was a JSPS Research Fellow in the Micro/Bio/Nanofluidics Unit (Prof. Amy Shen) at the Okinawa Institute of Science and Technology (OIST). I received my Ph.D. in Mechanical Systems Engineering from Tokyo University of Agriculture and Technology in March 2024 under the supervision of Prof. Yoshiyuki Tagawa.
     </p>
