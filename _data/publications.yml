@@ -1,0 +1,280 @@
+- id: kikuchi2026interfacial
+  year: 2026
+  type: preprint
+  authors:
+    - Ishin Kikuchi
+    - Hiroya Watanabe
+    - Yuto Yokoyama
+    - Hiroaki Kusuno
+    - Yoshiyuki Tagawa
+  title: "Interfacial dynamics induced by impacts across rigid and soft substrates"
+  journal: "arXiv"
+  volume: ""
+  number: ""
+  pages: "2602.06416"
+  doi: "10.48550/arXiv.2602.06416"
+  url: "https://doi.org/10.48550/arXiv.2602.06416"
+  status: "Preprint"
+  peer_reviewed: false
+  open_access: true
+
+- id: yokoyama2026naturecomm
+  year: 2026
+  type: journal
+  authors:
+    - Yuto Yokoyama
+    - Hirokazu Maruoka
+    - Kaie Matsunuma
+    - Yoshiyuki Tagawa
+  title: "Scaling crossover in droplet impact force on elastic substrates"
+  journal: "Nature Communications"
+  volume: "17"
+  number: "1"
+  pages: "607"
+  doi: "10.1038/s41467-025-67790-6"
+  url: "https://doi.org/10.1038/s41467-025-67790-6"
+  status: "Published"
+  peer_reviewed: true
+  open_access: true
+
+- id: kobayashi2026etfs
+  year: 2026
+  type: journal
+  authors:
+    - Miu Kobayashi
+    - William Kai Alexander Worby
+    - Misa Kawaguchi
+    - Yuto Yokoyama
+    - Sayaka Ichihara
+    - Yoshiyuki Tagawa
+  title: "Extending flow birefringence analysis to combined extensional-shear flows via Jeffery-Hamel flow measurements"
+  journal: "Experimental Thermal and Fluid Science"
+  volume: "174"
+  number: ""
+  pages: "111708"
+  doi: "10.1016/j.expthermflusci.2026.111708"
+  url: "https://doi.org/10.1016/j.expthermflusci.2026.111708"
+  status: "Published"
+  peer_reviewed: true
+  open_access: false
+
+- id: igarashi2025piced
+  year: 2025
+  type: preprint
+  authors:
+    - Daichi Igarashi
+    - Shunsuke Kumagai
+    - Yuto Yokoyama
+    - Yee Jingzu
+    - Masanobu Horie
+    - Yoshiyuki Tagawa
+  title: "Reconstruction of three-dimensional fluid stress field via photoelasticity using physics-informed convolutional encoder-decoder"
+  journal: "arXiv"
+  volume: ""
+  number: ""
+  pages: "2504.15952"
+  doi: "10.48550/arXiv.2504.15952"
+  url: "https://doi.org/10.48550/arXiv.2504.15952"
+  status: "Preprint"
+  peer_reviewed: false
+  open_access: true
+
+- id: kawaguchi2025heleshaw
+  year: 2025
+  type: preprint
+  authors:
+    - Misa Kawaguchi
+    - William Kai Alexander Worby
+    - Yuto Yokoyama
+    - Ryuta X. Suzuki
+    - Yuichiro Nagatsu
+    - Yoshiyuki Tagawa
+  title: "Flow birefringence of shear-thinning fluid in a Hele-Shaw cell"
+  journal: "arXiv"
+  volume: ""
+  number: ""
+  pages: "2503.10261"
+  doi: "10.48550/arXiv.2503.10261"
+  url: "https://doi.org/10.48550/arXiv.2503.10261"
+  status: "Preprint"
+  peer_reviewed: false
+  open_access: true
+
+- id: worby2024scirep
+  year: 2024
+  type: journal
+  authors:
+    - William Kai Alexander Worby
+    - Kento Nakamine
+    - Yuto Yokoyama
+    - Masakazu Muto
+    - Yoshiyuki Tagawa
+  title: "Examination of flow birefringence induced by the shear components along the optical axis using a parallel-plate-type rheometer"
+  journal: "Scientific Reports"
+  volume: "14"
+  number: ""
+  pages: "21931"
+  doi: "10.1038/s41598-024-73087-3"
+  url: "https://doi.org/10.1038/s41598-024-73087-3"
+  status: "Published"
+  peer_reviewed: true
+  open_access: true
+
+- id: nakamine2024cellulose
+  year: 2024
+  type: journal
+  authors:
+    - Kento Nakamine
+    - Yuto Yokoyama
+    - William Kai Alexander Worby
+    - Masakazu Muto
+    - Yoshiyuki Tagawa
+  title: "Flow birefringence of cellulose nanocrystal suspensions in three-dimensional flow fields: revisiting the stress-optic law"
+  journal: "Cellulose"
+  volume: "31"
+  number: "10"
+  pages: ""
+  doi: "10.1007/s10570-024-06045-x"
+  url: "https://doi.org/10.1007/s10570-024-06045-x"
+  status: "Published"
+  peer_reviewed: true
+  open_access: true
+
+- id: yokoyama2024optlaseng
+  year: 2024
+  type: journal
+  authors:
+    - Yuto Yokoyama
+    - Sayaka Ichihara
+    - Yoshiyuki Tagawa
+  title: "High-speed photoelastic tomography for axisymmetric stress fields in a soft material: temporal evolution of all stress components"
+  journal: "Optics and Lasers in Engineering"
+  volume: "178"
+  number: ""
+  pages: "108224"
+  doi: "10.1016/j.optlaseng.2024.108224"
+  url: "https://doi.org/10.1016/j.optlaseng.2024.108224"
+  status: "Published"
+  peer_reviewed: true
+  open_access: true
+
+- id: igarashi2024pof042005
+  year: 2024
+  type: journal
+  authors:
+    - Daichi Igarashi
+    - Kento Kimura
+    - Nanami Endo
+    - Yuto Yokoyama
+    - Hiroaki Kusuno
+    - Yoshiyuki Tagawa
+  title: "Optimal standoff distance for a highly focused microjet penetrating a soft material"
+  journal: "Physics of Fluids"
+  volume: "36"
+  number: ""
+  pages: "042005"
+  doi: "10.1063/5.0202757"
+  url: "https://doi.org/10.1063/5.0202757"
+  status: "Published"
+  peer_reviewed: true
+  open_access: true
+
+- id: igarashi2024pof013317
+  year: 2024
+  type: journal
+  authors:
+    - Daichi Igarashi
+    - Jingzu Yee
+    - Yuto Yokoyama
+    - Hiroaki Kusuno
+    - Yoshiyuki Tagawa
+  title: "The effects of secondary cavitation position on the velocity of a laser-induced microjet extracted using explainable artificial intelligence"
+  journal: "Physics of Fluids"
+  volume: "36"
+  number: ""
+  pages: "013317"
+  doi: "10.1063/5.0183462"
+  url: "https://doi.org/10.1063/5.0183462"
+  status: "Published"
+  peer_reviewed: true
+  open_access: true
+
+- id: mitchell2023jmps
+  year: 2023
+  type: journal
+  authors:
+    - Benjamin Mitchell
+    - Yuto Yokoyama
+    - Ali Nassiri
+    - Yoshiyuki Tagawa
+    - Yannis P. Korkolis
+    - Brad L. Kinsey
+  title: "An investigation of Hertzian contact in soft materials using photoelastic tomography"
+  journal: "Journal of the Mechanics and Physics of Solids"
+  volume: "171"
+  number: ""
+  pages: "105164"
+  doi: "10.1016/j.jmps.2022.105164"
+  url: "https://doi.org/10.1016/j.jmps.2022.105164"
+  status: "Published"
+  peer_reviewed: true
+  open_access: false
+
+- id: yokoyama2023optlaseng
+  year: 2023
+  type: journal
+  authors:
+    - Yuto Yokoyama
+    - Benjamin R. Mitchell
+    - Ali Nassiri
+    - Brad L. Kinsey
+    - Yannis P. Korkolis
+    - Yoshiyuki Tagawa
+  title: "Integrated photoelasticity in a soft material: phase retardation, azimuthal angle, and stress-optic coefficient"
+  journal: "Optics and Lasers in Engineering"
+  volume: "161"
+  number: ""
+  pages: "107335"
+  doi: "10.1016/j.optlaseng.2022.107335"
+  url: "https://doi.org/10.1016/j.optlaseng.2022.107335"
+  status: "Published"
+  peer_reviewed: true
+  open_access: true
+
+- id: yokoyama2022forsciint
+  year: 2022
+  type: journal
+  authors:
+    - Yuto Yokoyama
+    - Akane Tanaka
+    - Yoshiyuki Tagawa
+  title: "Droplet impact of blood and blood simulants on a solid surface: Effect of the deformability of red blood cells and the elasticity of plasma"
+  journal: "Forensic Science International"
+  volume: "331"
+  number: ""
+  pages: "111138"
+  doi: "10.1016/j.forsciint.2021.111138"
+  url: "https://doi.org/10.1016/j.forsciint.2021.111138"
+  status: "Published"
+  peer_reviewed: true
+  open_access: true
+
+- id: francogomez2021expfluids
+  year: 2021
+  type: journal
+  authors:
+    - Andres Franco-Gomez
+    - Hajime Onuki
+    - Yuto Yokoyama
+    - Yuichiro Nagatsu
+    - Yoshiyuki Tagawa
+  title: "Effect of liquid elasticity on the behaviour of high-speed focused jets"
+  journal: "Experiments in Fluids"
+  volume: "62"
+  number: ""
+  pages: "41"
+  doi: "10.1007/s00348-020-03128-w"
+  url: "https://doi.org/10.1007/s00348-020-03128-w"
+  status: "Published"
+  peer_reviewed: true
+  open_access: true

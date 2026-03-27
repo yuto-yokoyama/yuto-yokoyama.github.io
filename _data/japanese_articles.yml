@@ -1,0 +1,54 @@
+- id: tagawa2023biomaterials
+  year: 2023
+  type: journal
+  authors:
+    - 田川 義之
+    - 横山 裕杜
+    - 川口 美沙
+  title: "高速マイクロジェットの医工学応用と非定常レオロジー画像計測"
+  journal: "バイオマテリアル－生体材料－"
+  volume: "41"
+  number: "3"
+  pages: "216-221"
+  doi: ""
+  url: "https://kokuhoken.net/jsbm/public/backnumber/journal_41.html"
+  status: "Published"
+  peer_reviewed: false
+  open_access: false
+
+- id: muto2022nagare
+  year: 2022
+  type: journal
+  authors:
+    - 武藤 真和
+    - ウィリアム・海・アレクサンダー・ウォービー
+    - 中峯 健登
+    - 横山 裕杜
+    - 田川 義之
+  title: "流動複屈折計測とインデックスマッチングを複合した円管内流体応力場計測手法の開発"
+  journal: "日本流体力学会誌"
+  volume: "41"
+  number: "6"
+  pages: "383-386"
+  doi: ""
+  url: "https://pure.nitech.ac.jp/en/publications/%E6%B5%81%E5%8B%95%E8%A4%87%E5%B1%88%E6%8A%98%E8%A8%88%E6%B8%AC%E3%81%A8%E3%82%A4%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E3%82%92%E8%A4%87%E5%90%88%E3%81%97%E3%81%9F%E5%86%86%E7%AE%A1%E5%86%85%E6%B5%81%E4%BD%93%E5%BF%9C%E5%8A%9B%E5%A0%B4%E8%A8%88%E6%B8%AC%E6%89%8B%E6%B3%95%E3%81%AE%E9%96%8B%E7%99%BA-4/"
+  status: "Published"
+  peer_reviewed: true
+  open_access: false
+
+- id: tagawa2020isj
+  year: 2020
+  type: journal
+  authors:
+    - 田川 義之
+    - 横山 裕杜
+  title: "流体工学 (IV) ―空気薄膜内の潤滑圧力と液滴衝突―"
+  journal: "日本画像学会誌"
+  volume: "59"
+  number: "1"
+  pages: "165-170"
+  doi: "10.11370/isj.59.165"
+  url: "https://doi.org/10.11370/isj.59.165"
+  status: "Published"
+  peer_reviewed: false
+  open_access: false

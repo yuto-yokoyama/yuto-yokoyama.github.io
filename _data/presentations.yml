@@ -1,0 +1,1219 @@
+- id: yokoyama2025oistxjst
+  year: 2025
+  category: international
+  type: conference
+  authors:
+    - Yuto Yokoyama
+    - Vincenzo Calabrese
+    - Simon J. Haward
+    - Amy Q. Shen
+  title: "Effect of strain rate on flow birefringence relaxation of polydisperse systems"
+  event: "OISTxJST [Complex Flow] Workshop"
+  event_url: ""
+  presentation_url: ""
+  location: "Okinawa"
+  country: "Japan"
+  date: "2025-09-26"
+  presentation_type: "poster"
+  status: "Presented"
+
+- id: yokoyama2025isfv
+  year: 2025
+  category: international
+  type: conference
+  authors:
+    - Yuto Yokoyama
+    - Vincenzo Calabrese
+    - Simon J. Haward
+    - Amy Q. Shen
+  title: "Temporal stress field measurement using flow-induced birefringence"
+  event: "21st International Symposium on Flow Visualization"
+  event_url: ""
+  presentation_url: ""
+  location: "Tokyo"
+  country: "Japan"
+  date: "2025-06-22"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: kikuchi2025icmf
+  year: 2025
+  category: international
+  type: conference
+  authors:
+    - Ishin Kikuchi
+    - Yuto Yokoyama
+    - Hiroaki Kusuno
+    - Hiroya Watanabe
+    - Kohei Yamagata
+    - Yoshiyuki Tagawa
+  title: "Effect of stiffness of the base on impact-induced liquid jet velocity"
+  event: "12th International Conference on Multiphase Flows"
+  event_url: ""
+  presentation_url: ""
+  location: "Toulouse"
+  country: "France"
+  date: "2025-05-11"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yokoyama2025htsj
+  year: 2025
+  category: international
+  type: conference
+  authors:
+    - Yuto Yokoyama
+    - Hirokazu Maruoka
+    - Yoshiyuki Tagawa
+  title: "Maximum impact force of droplet impacting on elastic substrates"
+  event: "HTSJ International Heat Transfer Symposium 2025"
+  event_url: ""
+  presentation_url: ""
+  location: "Okinawa"
+  country: "Japan"
+  date: "2025-05-17"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: tagawa2024icfd
+  year: 2024
+  category: international
+  type: conference
+  authors:
+    - Yoshiyuki Tagawa
+    - Kaie Matsunuma
+    - Iwasawa Yoshinobu
+    - Hirokazu Maruoka
+    - Yuto Yokoyama
+  title: "Stress Induced by Droplets Impacting onto Soft Substrates"
+  event: "ICFD2024"
+  event_url: ""
+  presentation_url: ""
+  location: "Sendai"
+  country: "Japan"
+  date: "2024-11-18"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yokoyama2024apsdfd_relaxation
+  year: 2024
+  category: international
+  type: conference
+  authors:
+    - Yuto Yokoyama
+    - Vincenzo Calabrese
+    - Simon J. Haward
+    - Amy Q. Shen
+  title: "Relaxation time of rod-like particle alignment under shear or extensional flow: the effect of particle polydispersity"
+  event: "The 77th Annual Meeting of the APS Division of Fluid Dynamics (APS/DFD2024)"
+  event_url: ""
+  presentation_url: ""
+  location: "Utah"
+  country: "USA"
+  date: "2024-11-26"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yamagata2024apsdfd_injection
+  year: 2024
+  category: international
+  type: conference
+  authors:
+    - Kohei Yamagata
+    - Hiroya Watanabe
+    - Yuto Yokoyama
+    - Shoto Sekiguchi
+    - Yoshiyuki Tagawa
+  title: "Elucidation of injection behavior into skin-simulating soft materials using an impact-induced liquid jet"
+  event: "The 77th Annual Meeting of the APS Division of Fluid Dynamics (APS/DFD2024)"
+  event_url: ""
+  presentation_url: ""
+  location: "Utah"
+  country: "USA"
+  date: "2024"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: kikuchi2024apsdfd_stiffness
+  year: 2024
+  category: international
+  type: conference
+  authors:
+    - Ishin Kikuchi
+    - Yuto Yokoyama
+    - Hiroaki Kusuno
+    - Hiroya Watanabe
+    - Kohei Yamagata
+    - Yoshiyuki Tagawa
+  title: "Effect of stiffness of the base on impact-induced liquid jet velocity"
+  event: "The 77th Annual Meeting of the APS Division of Fluid Dynamics (APS/DFD2024)"
+  event_url: ""
+  presentation_url: ""
+  location: "Utah"
+  country: "USA"
+  date: "2024"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: tagawa2024apsdfd_stressoptic
+  year: 2024
+  category: international
+  type: conference
+  authors:
+    - Yoshiyuki Tagawa
+    - Kento Nakamine
+    - Yuto Yokoyama
+    - William K.A. Worby
+    - Masakazu Muto
+  title: "Three-Dimensional Stress-Measurement Using Flow Birefringence: Revisiting the Stress-Optic Law"
+  event: "The 77th Annual Meeting of the APS Division of Fluid Dynamics (APS/DFD2024)"
+  event_url: ""
+  presentation_url: ""
+  location: "Utah"
+  country: "USA"
+  date: "2024"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: ren2024efdc
+  year: 2024
+  category: international
+  type: conference
+  authors:
+    - Zibo Ren
+    - Yuto Yokoyama
+    - Zhigang Zuo
+    - Shuhong Liu
+    - Yoshiyuki Tagawa
+  title: "Interactions of a cavitation bubble with a rigid particle on an elastic boundary"
+  event: "1st European Fluid Dynamics Conference"
+  event_url: ""
+  presentation_url: ""
+  location: "Aachen"
+  country: "Germany"
+  date: "2024"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yokoyama2024ictam_impactforce
+  year: 2024
+  category: international
+  type: conference
+  authors:
+    - Yuto Yokoyama
+    - Hirokazu Maruoka
+    - Yoshiyuki Tagawa
+  title: "Impact Force of Droplet on Elastic Substrates"
+  event: "the 26th Internationa Congress of Theoretical and Applied Mechanics (ICTAM2024)"
+  event_url: ""
+  presentation_url: ""
+  location: "Daegu"
+  country: "Korea"
+  date: "2024"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: kawaguchi2024ictam_heleshaw
+  year: 2024
+  category: international
+  type: conference
+  authors:
+    - Misa Kawaguchi
+    - Yuto Yokoyama
+    - William K.A. Worby
+    - Ryuta X. Suzuki
+    - Yuichiro Nagatsu
+    - Yoshiyuki Tagawa
+  title: "Measurement of photoelasticity in radial Hele-Shaw flow"
+  event: "the 26th Internationa Congress of Theoretical and Applied Mechanics (ICTAM2024)"
+  event_url: ""
+  presentation_url: ""
+  location: "Daegu"
+  country: "Korea"
+  date: "2024"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: watanabe2024ictam_jet
+  year: 2024
+  category: international
+  type: conference
+  authors:
+    - Hiroya Watanabe
+    - Kohei Yamagata
+    - Yuto Yokoyama
+    - Hiroaki Kusuno
+    - Yoshiyuki Tagawa
+  title: "Effect of cross-sectional area of vessel on the velocity of impact-induced focused liquid jet"
+  event: "the 26th Internationa Congress of Theoretical and Applied Mechanics (ICTAM2024)"
+  event_url: ""
+  presentation_url: ""
+  location: "Daegu"
+  country: "Korea"
+  date: "2024"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yokoyama2024lisbon_stressfield
+  year: 2024
+  category: international
+  type: conference
+  authors:
+    - Yuto Yokoyama
+    - Sayaka Ichihara
+    - Hirokazu Maruoka
+    - Yoshiyuki Tagawa
+  title: "High-Speed Stress Field Measurement In A Soft Substrate During Droplet Impact"
+  event: "21st International Symposium on Applications of Laser and Imaging Techniques to Fluid Mechanics"
+  event_url: ""
+  presentation_url: ""
+  location: "Lisbon"
+  country: "Portugal"
+  date: "2024"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: kobayashi2024lisbon_jefferyhamel
+  year: 2024
+  category: international
+  type: conference
+  authors:
+    - Miu Kobayashi
+    - William K.A. Worby
+    - Yuto Yokoyama
+    - Misa Kawaguchi
+    - Yoshiyuki Tagawa
+  title: "Experimental analysis of flow birefringence in Jeffery-Hamel flow"
+  event: "21st International Symposium on Applications of Laser and Imaging Techniques to Fluid Mechanics"
+  event_url: ""
+  presentation_url: ""
+  location: "Lisbon"
+  country: "Portugal"
+  date: "2024"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: worby2024lisbon_orientation
+  year: 2024
+  category: international
+  type: conference
+  authors:
+    - William K.A. Worby
+    - Yuto Yokoyama
+    - Misa Kawaguchi
+    - Hiroaki Kusuno
+    - Yoshiyuki Tagawa
+  title: "Visualization of nanoparticle orientation structures inside complex fluids using polarized light imaging technique"
+  event: "21st International Symposium on Applications of Laser and Imaging Techniques to Fluid Mechanics"
+  event_url: ""
+  presentation_url: ""
+  location: "Lisbon"
+  country: "Portugal"
+  date: "2024"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yokoyama2023iutam
+  year: 2023
+  category: international
+  type: conference
+  authors:
+    - Yuto Yokoyama
+    - Sayaka Ichihara
+    - Hirokazu Maruoka
+    - Yoshiyuki Tagawa
+  title: "Stress field in a soft substrate during droplet impact"
+  event: "IUTAM Symposium on Dynamics and Interface Phenomena of Bubbles and Droplets at Multiple Scales"
+  event_url: ""
+  presentation_url: ""
+  location: "Tokyo"
+  country: "Japan"
+  date: "2023"
+  presentation_type: "poster"
+  status: "Presented"
+
+- id: worby2023ismtmf
+  year: 2023
+  category: international
+  type: conference
+  authors:
+    - William K.A. Worby
+    - Kento Nakamine
+    - Yuto Yokoyama
+    - Yuta Bando
+    - Misa Kawaguchi
+    - Hiroaki Kusuno
+    - Yoshiyuki Tagawa
+  title: "Measurement of the stress-optic coefficient of birefringent fluids by rheo-optical measurement utilizing a rheometer"
+  event: "The 12th International Symposium on Measurement Techniques for Multiphase Flow"
+  event_url: ""
+  presentation_url: ""
+  location: "Tokyo"
+  country: "Japan"
+  date: "2023"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yokoyama2023apsdfd_unsteady
+  year: 2023
+  category: international
+  type: conference
+  authors:
+    - Yuto Yokoyama
+    - Sayaka Ichihara
+    - Yoshiyuki Tagawa
+  title: "Unsteady stress field measurement during droplet impact on soft materials using photoelastic tomography"
+  event: "76th Annual Meeting of the APS Division of Fluid Dynamics"
+  event_url: ""
+  presentation_url: ""
+  location: "Washington D.C."
+  country: "USA"
+  date: "2023"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: watanabe2023apsdfd_convergent
+  year: 2023
+  category: international
+  type: conference
+  authors:
+    - Hiroya Watanabe
+    - Kohei Yamagata
+    - Yuto Yokoyama
+    - Hiroaki Kusuno
+    - Yoshiyuki Tagawa
+  title: "Effect of convergent-shaped vessel on the velocity of impact-induced focused liquid jets"
+  event: "76th Annual Meeting of the APS Division of Fluid Dynamics"
+  event_url: ""
+  presentation_url: ""
+  location: "Washington D.C."
+  country: "USA"
+  date: "2023"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: tagawa2023apsdfd_rectchannel
+  year: 2023
+  category: international
+  type: conference
+  authors:
+    - Yoshiyuki Tagawa
+    - Kento Nakamine
+    - William K.A. Worby
+    - Yuto Yokoyama
+  title: "Three-dimensional stress measurement of a laminar flow in a rectangular channel using integrated photoelasticity"
+  event: "76th Annual Meeting of the APS Division of Fluid Dynamics"
+  event_url: ""
+  presentation_url: ""
+  location: "Washington D.C."
+  country: "USA"
+  date: "2023"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: worby2023apsdfd_calibration
+  year: 2023
+  category: international
+  type: conference
+  authors:
+    - William K.A. Worby
+    - Kento Nakamine
+    - Yuto Yokoyama
+    - Yuta Bando
+    - Misa Kawaguchi
+    - Hiroaki Kusuno
+    - Yoshiyuki Tagawa
+  title: "Calibration of stress-optic coefficients for visualizations of fluid stress fields"
+  event: "76th Annual Meeting of the APS Division of Fluid Dynamics"
+  event_url: ""
+  presentation_url: ""
+  location: "Washington D.C."
+  country: "USA"
+  date: "2023"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: tagawa2023idmrcs
+  year: 2023
+  category: international
+  type: conference
+  authors:
+    - Yoshiyuki Tagawa
+    - Sayaka Ichihara
+    - Yuto Yokoyama
+  title: "Integrated photoelasticity in gels for 3D stress field measurements"
+  event: "The 9th International Discussion Meeting on Relaxations in Complex Systems (9 IDMRCS)"
+  event_url: ""
+  presentation_url: ""
+  location: "Chiba"
+  country: "Japan"
+  date: "2023"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: worby2023fed_stressoptic
+  year: 2023
+  category: international
+  type: conference
+  authors:
+    - William K.A. Worby
+    - Kento Nakamine
+    - Yuto Yokoyama
+    - Masakazu Muto
+    - Yoshiyuki Tagawa
+  title: "Measurement of stress-optic coefficients of birefringent fluids for measuring a three-dimensional stress field"
+  event: "ASME-JSME-KSME Fluids Engineering Division"
+  event_url: ""
+  presentation_url: ""
+  location: "Osaka"
+  country: "Japan"
+  date: "2023"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: watanabe2023fed_vessel
+  year: 2023
+  category: international
+  type: conference
+  authors:
+    - Hiroya Watanabe
+    - Hiroaki Kusuno
+    - Kohei Yamagata
+    - Yuto Yokoyama
+    - Yoshiyuki Tagawa
+  title: "Effects of vessel geometry on the behavior of impact-induced focused liquid jets"
+  event: "ASME-JSME-KSME Fluids Engineering Division"
+  event_url: ""
+  presentation_url: ""
+  location: "Osaka"
+  country: "Japan"
+  date: "2023"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yamagata2023fed_injector
+  year: 2023
+  category: international
+  type: conference
+  authors:
+    - Kohei Yamagata
+    - Shoto Sekiguchi
+    - Hiroya Watanabe
+    - Yuto Yokoyama
+    - Yoshiyuki Tagawa
+  title: "High-speed focused jet for the development of impact-induced needle-free injector"
+  event: "ASME-JSME-KSME Fluids Engineering Division"
+  event_url: ""
+  presentation_url: ""
+  location: "Osaka"
+  country: "Japan"
+  date: "2023"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yokoyama2024vsj
+  year: 2024
+  category: domestic
+  type: conference
+  authors:
+    - 横山裕杜
+    - 市原さやか
+    - 丸岡敬和
+    - Worby William
+    - 田川義之
+  title: "高速度偏光カメラを用いた三次元応力場の非定常計測手法とその適用例"
+  event: "第52回可視化情報シンポジウム"
+  event_url: ""
+  presentation_url: ""
+  location: "沖縄"
+  country: "Japan"
+  date: "2024"
+  presentation_type: "invited"
+  status: "Presented"
+
+- id: yamagata2024idea
+  year: 2024
+  category: domestic
+  type: conference
+  authors:
+    - 山形倖平
+    - 関口翔斗
+    - 渡部裕也
+    - 横山裕杜
+    - 宮武駿
+    - 長龍佑
+    - 田川義之
+  title: "アナフィジェット ~ 小さな命を守る無針アドレナリン注射器 ~"
+  event: "第5回創生アイデアコンテスト"
+  event_url: ""
+  presentation_url: ""
+  location: "福島"
+  country: "Japan"
+  date: "2024"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: tagawa2024jsmf_opt
+  year: 2024
+  category: domestic
+  type: conference
+  authors:
+    - 田川義之
+    - 五十嵐大地
+    - Yee Jingzu
+    - 横山裕杜
+    - 楠野宏明
+  title: "集束ジェットによる無針注射システムの最適化：マイクロジェットのダイナミクスにおける注入距離と二次キャビテーションの影響の解明"
+  event: "混相流シンポジウム2024"
+  event_url: ""
+  presentation_url: ""
+  location: "富山"
+  country: "Japan"
+  date: "2024"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yamagata2024jsmf_skin
+  year: 2024
+  category: domestic
+  type: conference
+  authors:
+    - 山形倖平
+    - 関口翔斗
+    - 渡部裕也
+    - 横山裕杜
+    - 田川義之
+  title: "撃力駆動の集束液体ジェット機構を用いた皮膚模擬材料内への貫入挙動解明"
+  event: "混相流シンポジウム2024"
+  event_url: ""
+  presentation_url: ""
+  location: "富山"
+  country: "Japan"
+  date: "2024"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: kikuchi2024icj
+  year: 2024
+  category: domestic
+  type: conference
+  authors:
+    - 菊地維新
+    - 横山裕杜
+    - 楠野宏明
+    - 渡部裕也
+    - 山形倖平
+    - 田川義之
+  title: "打撃ジェット速度における床材の影響"
+  event: "Imaging Conference JAPAN 2024"
+  event_url: ""
+  presentation_url: ""
+  location: "東京"
+  country: "Japan"
+  date: "2024"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: igarashi2023cavitation
+  year: 2023
+  category: domestic
+  type: conference
+  authors:
+    - 五十嵐大地
+    - Yee Jingzu
+    - 横山裕杜
+    - 楠野宏明
+    - 田川義之
+  title: "説明可能なAIを用いたレーザー誘起マイクロジェット速度におけるキャビテーション発生位置の影響調査"
+  event: "キャビテーションに関するシンポジウム(第21回)"
+  event_url: ""
+  presentation_url: ""
+  location: "大阪"
+  country: "Japan"
+  date: "2023"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: watanabe2023funryuka
+  year: 2023
+  category: domestic
+  type: conference
+  authors:
+    - 渡部裕也
+    - 山形倖平
+    - 横山裕杜
+    - 楠野宏明
+    - 田川義之
+  title: "液体を封入したフラスコの衝突による気液界面における微粒化と集束液体ジェット生成"
+  event: "第32回微粒化シンポジウム"
+  event_url: ""
+  presentation_url: ""
+  location: "京都"
+  country: "Japan"
+  date: "2023"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yokoyama2023nagare_stressoptic
+  year: 2023
+  category: domestic
+  type: conference
+  authors:
+    - 横山裕杜
+    - 中峰健登
+    - ウィリアムウォービー
+    - 田川義之
+  title: "光弾性法による三次元流体応力場計測に向けた応力光学則の再検討"
+  event: "日本流体力学会 年会2023"
+  event_url: ""
+  presentation_url: ""
+  location: "東京"
+  country: "Japan"
+  date: "2023"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yokoyama2023jsmf_softstress
+  year: 2023
+  category: domestic
+  type: conference
+  authors:
+    - 横山裕杜
+    - 市原さやか
+    - 田川義之
+  title: "固体球・液滴衝突時の基板内非定常応力場"
+  event: "混相流シンポジウム2023"
+  event_url: ""
+  presentation_url: ""
+  location: "札幌"
+  country: "Japan"
+  date: "2023"
+  presentation_type: "poster"
+  status: "Presented"
+
+- id: watanabe2023jsmf_area
+  year: 2023
+  category: domestic
+  type: conference
+  authors:
+    - 渡部裕也
+    - 山形倖平
+    - 横山裕杜
+    - 楠野宏明
+    - 田川義之
+  title: "液柱断面積変化が撃力誘起集束液体ジェットの速度に及ぼす影響"
+  event: "混相流シンポジウム2023"
+  event_url: ""
+  presentation_url: ""
+  location: "札幌"
+  country: "Japan"
+  date: "2023"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yokoyama2023vsj_3dstress
+  year: 2023
+  category: domestic
+  type: conference
+  authors:
+    - 横山裕杜
+    - 市原さやか
+    - Worby William
+    - 中峰健登
+    - 田川義之
+  title: "光弾性トモグラフィーを用いた軟質材料内三次元応力場の可視化"
+  event: "第51回 可視化情報シンポジウム"
+  event_url: ""
+  presentation_url: ""
+  location: "小樽"
+  country: "Japan"
+  date: "2023"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: tagawa2023vsj_microchannel
+  year: 2023
+  category: domestic
+  type: conference
+  authors:
+    - 田川義之
+    - 市原さやか
+    - 横山裕杜
+    - 川口美沙
+    - 中峰健登
+    - Worby William
+    - 楠野宏明
+  title: "微小流路内の応力場・圧力場可視化手法の開発"
+  event: "第51回 可視化情報シンポジウム"
+  event_url: ""
+  presentation_url: ""
+  location: "小樽"
+  country: "Japan"
+  date: "2023"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yokoyama2023htsj_heated
+  year: 2023
+  category: domestic
+  type: conference
+  authors:
+    - 横山裕杜
+    - 小野里佳
+    - 田川義之
+  title: "加熱基板へ衝突する高速マイクロ液滴の飛散現象"
+  event: "第60回 日本伝熱シンポジウム"
+  event_url: ""
+  presentation_url: ""
+  location: "福岡"
+  country: "Japan"
+  date: "2023-05"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yamagata2023jsme_injector
+  year: 2023
+  category: domestic
+  type: conference
+  authors:
+    - 山形倖平
+    - 関口翔斗
+    - 横山裕杜
+    - 田川義之
+  title: "無針注射器の実用化に向けた撃力駆動の集束ジェット機構の開発"
+  event: "日本機械学会 関東支部 関東学生会第62回学生員卒業研究発表講演会"
+  event_url: ""
+  presentation_url: ""
+  location: "オンライン"
+  country: "Japan"
+  date: "2023-03"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: onozato2023jsme_microdroplet
+  year: 2023
+  category: domestic
+  type: conference
+  authors:
+    - 小野里佳
+    - 田川義之
+    - 横山裕杜
+  title: "加熱平板への高速マイクロ液滴衝突現象の実験的解明"
+  event: "日本機械学会 関東支部 関東学生会第62回学生員卒業研究発表講演会"
+  event_url: ""
+  presentation_url: ""
+  location: "オンライン"
+  country: "Japan"
+  date: "2023-03"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: bando2023jsme_axisymmetric
+  year: 2023
+  category: domestic
+  type: conference
+  authors:
+    - 板東雄太
+    - Worby William
+    - 中峰健登
+    - 横山裕杜
+    - 武藤真和
+    - 田川義之
+  title: "円管内軸対称層流の光弾性計測に関する研究"
+  event: "日本機械学会 関東支部 関東学生会第62回学生員卒業研究発表講演会"
+  event_url: ""
+  presentation_url: ""
+  location: "オンライン"
+  country: "Japan"
+  date: "2023-03"
+  presentation_type: "oral"
+  status: "Presented"
+
+
+
+
+
+
+
+
+
+
+- id: yokoyama2022apsdfd_deformable
+  year: 2022
+  category: international
+  type: conference
+  authors:
+    - Yuto Yokoyama
+    - Sayaka Ichihara
+    - Benjamin R. Mitchell
+    - Ali Nassiri
+    - Brad  L. Kinsey
+    - Yannis P. Korkolis
+    - Yoshiyuki Tagawa
+  title: "Droplet impact on highly deformable substrate and three-dimensional stress fields measurement by photoelastic tomography"
+  event: "75th Annual Meeting of the APS Division of Fluid Dynamics"
+  event_url: ""
+  presentation_url: ""
+  location: "Indianapolis"
+  country: "USA"
+  date: "2022"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: tagawa2022apsdfd_rectchannel
+  year: 2022
+  category: international
+  type: conference
+  authors:
+    - Yoshiyuki Tagawa
+    - Kento Nakamine
+    - Yuto Yokoyama
+    - Masakazu Muto
+  title: "Three-dimensional measurement of a flow in a rectangular channel using a photoelastic method"
+  event: "75th Annual Meeting of the APS Division of Fluid Dynamics"
+  event_url: ""
+  presentation_url: ""
+  location: "Indianapolis"
+  country: "USA"
+  date: "2022"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: igarashi2022apsdfd_mlreconstruction
+  year: 2022
+  category: international
+  type: conference
+  authors:
+    - Daichi Igarashi
+    - Jingzu Yee
+    - Yuto Yokoyama
+    - Yoshiyuki Tagawa
+  title: "Machine Learning-Based Three-Dimensional Reconstruction of Stress Field from Flow Birefringence"
+  event: "75th Annual Meeting of the APS Division of Fluid Dynamics"
+  event_url: ""
+  presentation_url: ""
+  location: "Indianapolis"
+  country: "USA"
+  date: "2022"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: mitchell2022imece_hertzian
+  year: 2022
+  category: international
+  type: conference
+  authors:
+    - Benjamin R. Mitchell
+    - Yuto Yokoyama
+    - Ali Nassiri
+    - Yoshiyuki Tagawa
+    - Brad L. Kinsey
+    - Yannis P. Korkolis
+  title: "Direct Determination of the Stress Components During Hertzian Contact on a Soft Solid Using Photoelastic Tomography"
+  event: "ASME 2022 International Mechanical Engineering Congress and Exposition (IMECE2022)"
+  event_url: ""
+  presentation_url: ""
+  location: "Columbus"
+  country: "USA"
+  date: "2022"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: muto2022lisbon_cylindrical
+  year: 2022
+  category: international
+  type: conference
+  authors:
+    - Masakazu Muto
+    - William K.A. Worby
+    - Kento Nakamine
+    - Yuto Yokoyama
+    - Yoshiyuki Tagawa
+  title: "Non-Contact And Non-Steady Rheo-Optical Measurement Of Hydrodynamic Stress Fields Inside A Cylindrical Tube"
+  event: "20th International Symposium on Applications of Laser and Imaging Techniques to Fluid Mechanics"
+  event_url: ""
+  presentation_url: ""
+  location: "Lisbon"
+  country: "Portugal"
+  date: "2022"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: nakamine2022lisbon_rectchannel
+  year: 2022
+  category: international
+  type: conference
+  authors:
+    - Kento Nakamine
+    - Masakazu Muto
+    - Yuto Yokoyama
+    - Yoshiyuki Tagawa
+  title: "Three-Dimensional Measurement Of A Stress Field In A Rectangular Channel Flow Using A Photoelastic Method"
+  event: "20th International Symposium on Applications of Laser and Imaging Techniques to Fluid Mechanics"
+  event_url: ""
+  presentation_url: ""
+  location: "Lisbon"
+  country: "Portugal"
+  date: "2022"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yokoyama2021droplets_bloodglass
+  year: 2021
+  category: international
+  type: conference
+  authors:
+    - Yuto Yokoyama
+    - Akane Tanaka
+    - Yoshiyuki Tagawa
+  title: "Comparative experiments on the droplet impact of blood onto a glass substrate"
+  event: "Droplets 2021"
+  event_url: ""
+  presentation_url: ""
+  location: "Online"
+  country: ""
+  date: "2021"
+  presentation_type: "poster"
+  status: "Presented"
+
+- id: yokoyama2019apsdfd_bloodsplashing
+  year: 2019
+  category: international
+  type: conference
+  authors:
+    - Yuto Yokoyama
+    - Masanori Takeda
+    - Hajime Onuki
+    - Yoshiyuki Tagawa
+  title: "Influence of characteristic components of blood on blood splashing onto a solid wall"
+  event: "72nd Annual Meeting of the American Physical Society Division of Fluid Dynamics"
+  event_url: ""
+  presentation_url: ""
+  location: "Seattle"
+  country: "USA"
+  date: "2019"
+  presentation_type: "poster"
+  status: "Presented"
+
+- id: tagawa2022nagare_rectchannelsystem
+  year: 2022
+  category: domestic
+  type: conference
+  authors:
+    - 田川義之
+    - 中峰健登
+    - Worby William
+    - 横山裕杜
+    - 楠野宏明
+    - 武藤真和
+  title: "矩形管内三次元流体応力場の光弾性計測システムに関する検討"
+  event: "日本流体力学会 年会2022"
+  event_url: ""
+  presentation_url: ""
+  location: "京都"
+  country: "Japan"
+  date: "2022"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: muto2022nagare_indexmatching
+  year: 2022
+  category: domestic
+  type: conference
+  authors:
+    - 武藤真和
+    - Worby William
+    - 中峰健登
+    - 横山裕杜
+    - 田川義之
+  title: "流動複屈折計測とインデックスマッチングを複合した円管内流体応力場計測手法の開発"
+  event: "日本流体力学会 年会2022"
+  event_url: ""
+  presentation_url: ""
+  location: "京都"
+  country: "Japan"
+  date: "2022"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yokoyama2022penetration_softstress
+  year: 2022
+  category: domestic
+  type: conference
+  authors:
+    - 横山裕杜
+  title: "固体/液滴衝突時の軟質材料内応力場の非定常計測方法の開発"
+  event: "ペネトレーション研究交流会"
+  event_url: ""
+  presentation_url: ""
+  location: "大阪"
+  country: "Japan"
+  date: "2022"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yokoyama2022jsem_photoelasticvector
+  year: 2022
+  category: domestic
+  type: conference
+  authors:
+    - 横山裕杜
+    - 市原さやか
+    - Mitchell Benjamin
+    - Nassiri Ali
+    - Kinsey Brad
+    - Korkolis Yannis
+    - 田川義之
+  title: "光弾性ベクトルトモグラフィーによる軟質材料内応力場の実験的計測"
+  event: "日本実験力学会2022年度年次講演会"
+  event_url: ""
+  presentation_url: ""
+  location: "鳥取"
+  country: "Japan"
+  date: "2022"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: worby2022jsmf_couette
+  year: 2022
+  category: domestic
+  type: conference
+  authors:
+    - Worby William
+    - 中峰健登
+    - 横山裕杜
+    - 武藤真和
+    - 田川義之
+  title: "クエット流動化における応力計測と高速度偏光カメラによる複屈折の同時計測手法の開発"
+  event: "混相流シンポジウム2022"
+  event_url: ""
+  presentation_url: ""
+  location: "オンライン"
+  country: "Japan"
+  date: "2022"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yokoyama2022htsj_bloodimpact
+  year: 2022
+  category: domestic
+  type: conference
+  authors:
+    - 横山裕杜
+    - 田中あかね
+    - 田川義之
+  title: "血液の液滴衝突現象の実験的解明"
+  event: "第59回日本伝熱シンポジウム"
+  event_url: ""
+  presentation_url: ""
+  location: "岐阜"
+  country: "Japan"
+  date: "2022"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yokoyama2021jsmf_softsubstrate
+  year: 2021
+  category: domestic
+  type: conference
+  authors:
+    - 横山裕杜
+    - 田川義之
+  title: "軟質基板への液滴衝突現象と基板内応力場の非定常計測"
+  event: "混相流シンポジウム2021"
+  event_url: ""
+  presentation_url: ""
+  location: "オンライン"
+  country: "Japan"
+  date: "2021"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yokoyama2021ocean_bloodimpact
+  year: 2021
+  category: domestic
+  type: conference
+  authors:
+    - 横山裕杜
+    - 田川義之
+  title: "血液の液滴衝突に関する実験的研究"
+  event: "第4回海洋地球科学シミュレーションワークショップ"
+  event_url: ""
+  presentation_url: ""
+  location: "オンライン"
+  country: "Japan"
+  date: "2021"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yokoyama2021srj_bloodcomponents
+  year: 2021
+  category: domestic
+  type: conference
+  authors:
+    - 横山裕杜
+    - 田川義之
+  title: "血液の特徴成分が固体壁面への液滴衝突挙動に及ぼす影響"
+  event: "日本レオロジー学会 第25回東日本支部修士発表会（関東地区修士発表会）"
+  event_url: ""
+  presentation_url: ""
+  location: "オンライン"
+  country: "Japan"
+  date: "2021"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yokoyama2020jsme_bloodrheology
+  year: 2020
+  category: domestic
+  type: conference
+  authors:
+    - 横山裕杜
+    - 大貫甫
+    - 田川義之
+  title: "血液のレオロジーと赤血球とが壁面衝突時の血液飛散現象に及ぼす影響"
+  event: "日本機械学会 関東支部第26期総会・講演会"
+  event_url: ""
+  presentation_url: ""
+  location: "東京"
+  country: "Japan"
+  date: "2020"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yokoyama2019kosen_shearthickening
+  year: 2019
+  category: domestic
+  type: conference
+  authors:
+    - 横山裕杜
+    - 永弘進一郎
+  title: "懸濁液のずり粘稠化における負圧の発生要因"
+  event: "第24回高専シンポジウム in Oyama"
+  event_url: ""
+  presentation_url: ""
+  location: "栃木"
+  country: "Japan"
+  date: "2019"
+  presentation_type: "oral"
+  status: "Presented"
+
+# - id: yokoyama2018kosen_mongol
+#   year: 2018
+#   category: domestic
+#   type: conference
+#   authors:
+#     - 横山裕杜
+#     - 矢島邦明
+#     - 小林仁
+#     - Ganbileg Nasan
+#     - 宮前奈央美
+#   title: "モンゴルの高専におけるインターンシップ報告 1 ~モンゴル国立科学技術大学付属高専での活動~"
+#   event: "第23回高専シンポジウム in Kobe"
+#   event_url: ""
+#   presentation_url: ""
+#   location: "兵庫"
+#   country: "Japan"
+#   date: "2018"
+#   presentation_type: "poster"
+#   status: "Presented"

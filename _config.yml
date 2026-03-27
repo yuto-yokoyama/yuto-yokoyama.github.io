@@ -1,0 +1,15 @@
+title: Yuto Yokoyama
+description: Personal website
+
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+
+minima:
+  skin: auto
+  nav_pages:
+  - index.md
+  - news.md
+  - publications.md
+  - presentations.md
+  - cv.md

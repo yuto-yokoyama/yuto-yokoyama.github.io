@@ -1,0 +1,130 @@
+---
+title: CV
+permalink: /cv/
+---
+
+# Experience
+
+- **2026 Feb – Present**  
+  Postdoctoral Fellow, Splash Lab, KAUST
+
+- **2024 Apr – 2026 Jan**  
+  Research Fellow of JSPS Research Fellowships for Young Scientists (PD), OIST  
+  日本学術振興会特別研究員 (PD)
+
+- **2024 Aug**  
+  Supervising a student during the OIST-KEIO International Research Summer Camp 2024
+
+- **2022 Apr – 2024 Mar**  
+  Research Fellow of JSPS Research Fellowships for Young Scientists (DC2), TUAT  
+  日本学術振興会特別研究員 (DC2)
+
+- **2022 Apr – 2024 Mar**  
+  Research Assistant, TUAT  
+  リサーチ・アシスタント
+
+- **2021 Apr – 2022 Mar**  
+  Research Fellow of TUAT FLOuRISH JIRITSU Fellowship, TUAT  
+  未来価値創造研究教育特区型 JIRITSU フェローシップ
+
+- **2019 Apr – 2021 Mar**  
+  Teaching Assistant, TUAT  
+  ティーチング・アシスタント  
+  Computer Programming I, Fluid Dynamics I, Mechanical Systems Engineering Experiment III  
+  コンピュータ・プログラミング I, 流体力学 I, 機械システム工学実験 III
+
+<br>
+# Education
+
+- **2024 Mar**  
+  Ph.D., Tokyo University of Agriculture and Technology, Tokyo, Japan
+
+- **2021 Mar**  
+  M.Eng., Tokyo University of Agriculture and Technology, Tokyo, Japan
+
+- **2019 Mar**  
+  B.Eng., National Institute of Technology, Sendai College, Sendai, Japan
+
+<br>
+# Research Skills
+
+- High-speed imaging
+- Rheological measurement and analysis (shear and extensional)
+- Image processing
+- Tomography
+- Stress field measurement
+- Photoelastic measurement and analysis
+- Coding (MATLAB)
+- Numerical simulation (COMSOL)
+
+<br>
+# Grants
+
+- **2024 Apr – 2025 Mar**  
+  Research Grant for Piping Systems and Other Research, Ihara Science Nakano Memorial Foundation  
+  イハラサイエンス中野記念財団 研究助成事業
+
+- **2024 Apr – 2027 Mar**  
+  Grant-in-Aid for JSPS Fellows, Japan Society for the Promotion of Science (JSPS)  
+  No. JP24KJ2176
+
+- **2022 Apr – 2024 Mar**  
+  Grant-in-Aid for JSPS Fellows, Japan Society for the Promotion of Science (JSPS)  
+  No. JP22J13343, JP22KJ1239
+
+- **2022 Nov**  
+  Encouragement Grant for International Conference Participation 2022, TUAT  
+  東京農工大学 2022年度 国際学会派遣プログラム
+
+- **2021 Apr – 2022 Mar**  
+  FLOuRISH JIRITSU Fellowship, TUAT  
+  未来価値創造研究教育特区型 JIRITSU フェローシップ
+
+<br>
+# Awards
+
+- **2025 Jun**  
+  1st Place, Master of Fluid Visualization at ISFV21
+
+- **2023 Sep**  
+  Best Presentation Award for Young Researcher, The Japan Society of Fluid Mechanics Annual Meeting 2023
+  日本流体力学会年会 2023 若手優秀講演表彰
+
+- **2023 Aug**  
+  Best Presentation Award, 51st Visualization Information Symposium  
+  第51回可視化情報シンポジウム ベストプレゼンテーション賞
+
+- **2022 Apr**  
+  Student Award for Academic Activities, TUAT  
+  東京農工大学 学生表彰《学術活動》
+
+- **2021 Aug**  
+  Best Presentation Award at JSMF Multiphase Flow Symposium 2021  
+  ベストプレゼンテーションアワード 混相流シンポジウム 2021
+
+- **2017 Mar**  
+  Hatakeyama Award of Japan Society of Mechanical Engineers (JSME)  
+  日本機械学会 畠山賞
+
+<!-- 
+# Membership
+
+- [American Physical Society (APS)](https://www.aps.org)  
+  アメリカ物理学会
+
+- [Japan Society of Mechanical Engineers (JSME)](https://www.jsme.or.jp)  
+  日本機械学会
+
+- [Heat Transfer Society of Japan (HTSJ)](https://www.htsj.or.jp)  
+  日本伝熱学会
+
+- [Japanese Society for Multiphase Flow (JSMF)](https://www.jsmf.gr.jp)  
+  日本混相流学会
+-->
+
+<!-- 
+<br>
+# Contact
+- E-mail: yuto.yokoyama[at]kaust.edu.sa.jp
+- Address: Lab3 B750, 1919-1, Tancha, Onna-son, Kunigami-gun, Okinawa, 904-0497
+-->

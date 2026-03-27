@@ -1,0 +1,40 @@
+- id: rubio2026bloodmimetics
+  year: 2026
+  type: book_chapter
+  authors:
+    - Alejandro Rubio
+    - Daniel Fernández-Martínez
+    - Yuto Yokoyama
+    - Kotaro Hashimoto
+    - Shun Miyatake
+    - Yoshiyuki Tagawa
+    - Emilio José Vega
+  title: "Chapter 15 - Droplet impact of a rheologically-relevant blood simulant at body temperature"
+  book_title: "Recent Advances in Hemodynamics and Blood Mimetics"
+  publisher: "Academic Press"
+  volume: ""
+  number: ""
+  pages: "301-310"
+  doi: ""
+  url: "https://www.sciencedirect.com/science/chapter/abs/pii/B9780443240669000143"
+  status: "Published"
+  peer_reviewed: true
+  open_access: false
+
+- id: tagawa2025gel
+  year: 2025
+  type: book_chapter
+  authors:
+    - 田川 義之
+    - 横山 裕杜
+  title: "第2節 ゲル中の応力場計測"
+  book_title: "ゲル化・増粘剤の使い方と新しいゲルの活用事例"
+  publisher: "技術情報協会"
+  volume: ""
+  number: ""
+  pages: ""
+  doi: ""
+  url: "https://researchmap.jp/YutoYokoyama/books_etc/49305310"
+  status: "Published"
+  peer_reviewed: false
+  open_access: false

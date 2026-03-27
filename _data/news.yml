@@ -1,0 +1,13 @@
+- id: movetoKAUST
+  type: position
+  date: "2026-02-02"
+  text: "I joined the Splash Lab led by Prof. Tadd Truscott at KAUST."
+  url: ""
+  link_label: "[Link]"
+
+- id: nc2026droplet
+  type: paper
+  date: "2026-01-28"
+  text: "A new paper about droplet impact force on elastic substrates was published in Nature Communications."
+  url: "https://doi.org/10.1038/s41467-025-67790-6"
+  link_label: "[Link]"
