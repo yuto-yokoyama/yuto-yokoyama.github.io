@@ -191,3 +191,121 @@ h3 {
     gap: 0.25rem;
   }
 }
+
+
+
+/* about-like top section */
+.about-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 280px;
+  gap: 3rem;
+  align-items: start;
+  margin-top: 2.5rem;
+  margin-bottom: 3rem;
+}
+
+.about-name {
+  font-size: 3rem;
+  line-height: 1.1;
+  letter-spacing: -0.03em;
+  margin: 0 0 1rem 0;
+}
+
+.about-affiliation {
+  font-size: 1.35rem;
+  line-height: 1.5;
+  color: #7b3fc6;
+  margin-bottom: 1.5rem;
+}
+
+.about-main p {
+  font-size: 1.08rem;
+  line-height: 1.7;
+  margin-bottom: 1.2rem;
+}
+
+.about-sidebar {
+  padding-top: 1rem;
+}
+
+.about-photo {
+  width: 100%;
+  max-width: 280px;
+  border-radius: 6px;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.about-contact {
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+
+/* section titles closer to al-folio */
+h2 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  border-bottom: none;
+  padding-bottom: 0;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+
+/* news layout */
+.news-list-custom {
+  margin-top: 0.5rem;
+}
+
+.news-item {
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  gap: 1.5rem;
+  align-items: start;
+}
+
+.news-date {
+  font-weight: 700;
+  color: inherit;
+  font-size: 1rem;
+}
+
+/* links spacing */
+ul.clean-list li:last-child {
+  border-bottom: 1px solid #ececec;
+}
+
+@media (prefers-color-scheme: dark) {
+  .about-affiliation {
+    color: #d38cff;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .about-layout {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .about-sidebar {
+    padding-top: 0;
+  }
+
+  .about-photo {
+    max-width: 220px;
+  }
+
+  .about-name {
+    font-size: 2.3rem;
+  }
+
+  .about-affiliation {
+    font-size: 1.15rem;
+  }
+
+  .news-item {
+    grid-template-columns: 1fr;
+    gap: 0.35rem;
+  }
+}
