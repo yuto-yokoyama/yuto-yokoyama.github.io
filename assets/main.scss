@@ -1,0 +1,194 @@
+---
+---
+
+@import "minima";
+
+/* page width */
+.wrapper {
+  max-width: 960px;
+}
+
+/* base typography */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: #222;
+  line-height: 1.75;
+  font-size: 16px;
+}
+
+/* header */
+.site-header {
+  border-top: none;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.site-title {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.site-nav .page-link {
+  color: #555;
+}
+
+.site-nav .page-link:hover {
+  color: #111;
+  text-decoration: none;
+}
+
+/* headings */
+.post-title,
+.page-heading,
+h1,
+h2,
+h3 {
+  letter-spacing: -0.02em;
+}
+
+h1 {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid #ececec;
+}
+
+h3 {
+  margin-top: 1.8rem;
+}
+
+/* paragraphs and lists */
+p,
+ul,
+ol {
+  margin-bottom: 1rem;
+}
+
+/* home intro */
+.home-intro {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 2rem;
+  align-items: start;
+  margin: 2rem 0 3rem;
+}
+
+.profile-photo {
+  width: 100%;
+  max-width: 220px;
+  border-radius: 14px;
+  display: block;
+}
+
+.intro-text h1 {
+  margin-top: 0;
+}
+
+/* chips for interests */
+.tag-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+.tag-list li {
+  display: inline-block;
+  padding: 0.35rem 0.8rem;
+  border-radius: 999px;
+  background: #f2f4f7;
+  color: #2c3e50;
+  font-size: 0.92rem;
+  border: 1px solid #e5e7eb;
+}
+
+/* list styles */
+.clean-list {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.clean-list li {
+  padding: 0.85rem 0;
+  border-bottom: 1px solid #ececec;
+}
+
+/* news layout */
+.news-item {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  gap: 1rem;
+}
+
+.news-date {
+  color: #666;
+  font-size: 0.95rem;
+  white-space: nowrap;
+}
+
+/* footer */
+.site-footer {
+  border-top: 1px solid #ececec;
+  padding-top: 1.5rem;
+}
+
+/* dark mode refinement */
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #e8eaed;
+  }
+
+  .site-header,
+  .site-footer,
+  h2,
+  .clean-list li {
+    border-color: #2d3137;
+  }
+
+  .site-nav .page-link {
+    color: #b7c0cc;
+  }
+
+  .site-nav .page-link:hover {
+    color: #ffffff;
+  }
+
+  .tag-list li {
+    background: #1e2530;
+    color: #c9ddff;
+    border-color: #344055;
+  }
+
+  .news-date {
+    color: #aab4c0;
+  }
+}
+
+/* responsive */
+@media screen and (max-width: 700px) {
+  .wrapper {
+    padding-right: 18px;
+    padding-left: 18px;
+  }
+
+  .home-intro {
+    grid-template-columns: 1fr;
+    gap: 1.2rem;
+  }
+
+  .profile-photo {
+    max-width: 180px;
+  }
+
+  .news-item {
+    grid-template-columns: 1fr;
+    gap: 0.25rem;
+  }
+}
