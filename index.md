@@ -18,7 +18,7 @@ Postdoctoral Fellow, King Abludlah University of Science and Tehnology (KAUST)
   </div>
 
   <div style="flex: 0 0 220px;">
-    <img src="/assets/img/photo_yuto.jpg" alt="Profile photo" style="width: 100%; max-width: 220px; height: auto; border: none;" />
+    <img src="/assets/img/photo_yuto.jpg" alt="Profile photo" style="width: 100%; max-width: 300px; height: auto; border: none;" />
   </div>
 
 </div>
