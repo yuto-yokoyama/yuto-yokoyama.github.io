@@ -80,30 +80,6 @@ permalink: /cv/
 
 
 
-<br>
-# Education
-
-<div style="display: grid; grid-template-columns: 200px 1fr; row-gap: 12px; column-gap: 16px;">
-
-<div><strong>2024 Mar</strong></div>
-<div>
-  Ph.D., Tokyo University of Agriculture and Technology, Tokyo, Japan
-</div>
-
-<div><strong>2021 Mar</strong></div>
-<div>
-  M.Eng., Tokyo University of Agriculture and Technology, Tokyo, Japan
-</div>
-
-<div><strong>2019 Mar</strong></div>
-<div>
-  B.Eng., National Institute of Technology, Sendai College, Sendai, Japan
-</div>
-
-</div>
-
-
-
 
 
 
