@@ -1,11 +1,12 @@
 title: Yuto Yokoyama
-description: Personal website
+description: Yuto Yokoyama Personal website
 url: "https://yuto-yokoyama.github.io"
 baseurl: ""
 
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
+  # - jekyll-feed
 
 minima:
   skin: auto
@@ -15,3 +16,15 @@ minima:
     - publications.md
     - presentations.md
     - cv.md
+
+author:
+name: Yuto Yokoyama
+
+social_links:
+
+title: researchmap
+icon: link
+url: https://researchmap.jp/YutoYokoyama
+title: Google Scholar
+icon: link
+url: https://scholar.google.com/citations?user=YOUR_ID_HERE
