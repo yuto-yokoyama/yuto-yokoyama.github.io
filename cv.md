@@ -56,7 +56,6 @@ permalink: /cv/
 
 
 <br>
-
 # Education
 
 <div style="display: grid; grid-template-columns: 200px 1fr; row-gap: 12px; column-gap: 16px;">
@@ -106,20 +105,6 @@ permalink: /cv/
 
 
 
-<br>
-# Research Skills
-
-* High-speed imaging
-* Rheological measurement and analysis (shear and extensional)
-* Image processing
-* Tomography
-* Stress field measurement
-* Photoelastic measurement and analysis
-* Coding (MATLAB)
-* Numerical simulation (COMSOL)
-
-
-
 
 
 <br>
@@ -156,7 +141,6 @@ permalink: /cv/
 </div>
 
 </div>
-
 
 
 
@@ -206,6 +190,20 @@ permalink: /cv/
 
 
 
+
+
+
+<br>
+# Research Skills
+
+* High-speed imaging
+* Rheological measurement and analysis (shear and extensional)
+* Image processing
+* Tomography
+* Stress field measurement
+* Photoelastic measurement and analysis
+* Coding (MATLAB)
+* Numerical simulation (COMSOL)
 
 
 
