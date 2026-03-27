@@ -5,33 +5,55 @@ permalink: /cv/
 
 # Experience
 
-- **2026 Feb – Present**  
-  Postdoctoral Fellow, Splash Lab, KAUST
+<div style="display: grid; grid-template-columns: 160px 1fr; row-gap: 12px; column-gap: 16px;">
 
-- **2024 Apr – 2026 Jan**  
-  Research Fellow of JSPS Research Fellowships for Young Scientists (PD), OIST  
-  日本学術振興会特別研究員 (PD)
+<div><strong>2026 Feb – Present</strong></div>
+<div>Postdoctoral Fellow, Splash Lab, KAUST</div>
 
-- **2024 Aug**  
-  Supervising a student during the OIST-KEIO International Research Summer Camp 2024
+<div><strong>2024 Apr – 2026 Jan</strong></div>
+<div>
+Research Fellow of JSPS Research Fellowships for Young Scientists (PD), OIST<br>
+日本学術振興会特別研究員 (PD)
+</div>
 
-- **2022 Apr – 2024 Mar**  
-  Research Fellow of JSPS Research Fellowships for Young Scientists (DC2), TUAT  
-  日本学術振興会特別研究員 (DC2)
+<div><strong>2024 Aug</strong></div>
+<div>
+Supervising a student during the OIST-KEIO International Research Summer Camp 2024
+</div>
 
-- **2022 Apr – 2024 Mar**  
-  Research Assistant, TUAT  
-  リサーチ・アシスタント
+<div><strong>2022 Apr – 2024 Mar</strong></div>
+<div>
+Research Fellow of JSPS Research Fellowships for Young Scientists (DC2), TUAT<br>
+日本学術振興会特別研究員 (DC2)
+</div>
 
-- **2021 Apr – 2022 Mar**  
-  Research Fellow of TUAT FLOuRISH JIRITSU Fellowship, TUAT  
-  未来価値創造研究教育特区型 JIRITSU フェローシップ
+<div><strong>2022 Apr – 2024 Mar</strong></div>
+<div>
+Research Assistant, TUAT<br>
+リサーチ・アシスタント
+</div>
 
-- **2019 Apr – 2021 Mar**  
-  Teaching Assistant, TUAT  
-  ティーチング・アシスタント  
-  Computer Programming I, Fluid Dynamics I, Mechanical Systems Engineering Experiment III  
-  コンピュータ・プログラミング I, 流体力学 I, 機械システム工学実験 III
+<div><strong>2021 Apr – 2022 Mar</strong></div>
+<div>
+Research Fellow of TUAT FLOuRISH JIRITSU Fellowship, TUAT<br>
+未来価値創造研究教育特区型 JIRITSU フェローシップ
+</div>
+
+<div><strong>2019 Apr – 2021 Mar</strong></div>
+<div>
+Teaching Assistant, TUAT<br>
+ティーチング・アシスタント<br>
+Computer Programming I, Fluid Dynamics I, Mechanical Systems Engineering Experiment III<br>
+コンピュータ・プログラミング I, 流体力学 I, 機械システム工学実験 III
+</div>
+
+</div>
+
+
+
+
+
+
 
 <br>
 # Education
