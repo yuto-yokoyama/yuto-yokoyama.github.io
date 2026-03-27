@@ -3,7 +3,7 @@ title: Home
 ---
 
 # **Yuto Yokoyama (横山 裕杜)**
-Postdoctoral Fellow, King Abludlah University of Science and Tehnology (KAUST)
+## Postdoctoral Fellow, King Abludlah University of Science and Tehnology (KAUST)
 
 <div style="display: flex; align-items: flex-start; gap: 24px; flex-wrap: wrap;">
 
