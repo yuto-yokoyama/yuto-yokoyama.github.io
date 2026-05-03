@@ -1,3 +1,24 @@
+# 2025
+
+- id: william2025apsdfd_cnc
+  year: 2025
+  category: international
+  type: conference
+  authors:
+    - William W. K. A.
+    - Misa Kawaguchi
+    - Yuto Yokoyama
+    - Yoshiyuki Tagawa
+  title: "Birefringence-Based Evaluation of Stress-Optical Behavior in CNC Suspensions under Rheometric Shear Flow"
+  event: "APS Division of Fluid Dynamics"
+  event_url: ""
+  presentation_url: ""
+  location: "Houston"
+  country: "USA"
+  date: "2025"
+  presentation_type: "oral"
+  status: "Presented"
+  
 - id: yokoyama2025oistxjst
   year: 2025
   category: international
@@ -17,6 +38,26 @@
   presentation_type: "poster"
   status: "Presented"
 
+- id: kobayashi2025konsoryu
+  year: 2025
+  category: domestic
+  type: conference
+  authors:
+    - 小林 みう
+    - William K.A. Worby
+    - 横山 裕杜
+    - 川口 美沙
+    - 田川 義之
+  title: "流動複屈折を用いた二次元せん断-伸長複合流れの応力計測"
+  event: "混相流シンポジウム2025"
+  event_url: ""
+  presentation_url: ""
+  location: "兵庫"
+  country: "Japan"
+  date: "2025-09-03"
+  presentation_type: "oral"
+  status: "Presented"
+
 - id: yokoyama2025isfv
   year: 2025
   category: international
@@ -33,6 +74,24 @@
   location: "Tokyo"
   country: "Japan"
   date: "2025-06-22"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yokoyama2025htsj
+  year: 2025
+  category: international
+  type: conference
+  authors:
+    - Yuto Yokoyama
+    - Hirokazu Maruoka
+    - Yoshiyuki Tagawa
+  title: "Maximum impact force of droplet impacting on elastic substrates"
+  event: "HTSJ International Heat Transfer Symposium 2025"
+  event_url: ""
+  presentation_url: ""
+  location: "Okinawa"
+  country: "Japan"
+  date: "2025-05-17"
   presentation_type: "oral"
   status: "Presented"
 
@@ -57,21 +116,45 @@
   presentation_type: "oral"
   status: "Presented"
 
-- id: yokoyama2025htsj
-  year: 2025
+# 2024
+
+- id: kawaguchi2024bifd_saffmantaylor
+  year: 2024
+  category: international
+  type: conference
+  authors:
+    - Misa Kawaguchi
+    - Yuto Yokoyama
+    - William W. K. A. Worby
+    - Ryuta X. Suzuki
+    - Yuichiro Nagatsu
+    - Yoshiyuki Tagawa
+  title: "Experimental analysis of Saffman–Taylor instability in Hele-Shaw cell using photoelastic technique"
+  event: "10th International BIFD Symposium"
+  event_url: ""
+  presentation_url: ""
+  location: "Edinburgh"
+  country: "UK"
+  date: "2024"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yokoyama2024apsdfd_relaxation
+  year: 2024
   category: international
   type: conference
   authors:
     - Yuto Yokoyama
-    - Hirokazu Maruoka
-    - Yoshiyuki Tagawa
-  title: "Maximum impact force of droplet impacting on elastic substrates"
-  event: "HTSJ International Heat Transfer Symposium 2025"
+    - Vincenzo Calabrese
+    - Simon J. Haward
+    - Amy Q. Shen
+  title: "Relaxation time of rod-like particle alignment under shear or extensional flow: the effect of particle polydispersity"
+  event: "The 77th Annual Meeting of the APS Division of Fluid Dynamics (APS/DFD2024)"
   event_url: ""
   presentation_url: ""
-  location: "Okinawa"
-  country: "Japan"
-  date: "2025-05-17"
+  location: "Utah"
+  country: "USA"
+  date: "2024-11-26"
   presentation_type: "oral"
   status: "Presented"
 
@@ -92,25 +175,6 @@
   location: "Sendai"
   country: "Japan"
   date: "2024-11-18"
-  presentation_type: "oral"
-  status: "Presented"
-
-- id: yokoyama2024apsdfd_relaxation
-  year: 2024
-  category: international
-  type: conference
-  authors:
-    - Yuto Yokoyama
-    - Vincenzo Calabrese
-    - Simon J. Haward
-    - Amy Q. Shen
-  title: "Relaxation time of rod-like particle alignment under shear or extensional flow: the effect of particle polydispersity"
-  event: "The 77th Annual Meeting of the APS Division of Fluid Dynamics (APS/DFD2024)"
-  event_url: ""
-  presentation_url: ""
-  location: "Utah"
-  country: "USA"
-  date: "2024-11-26"
   presentation_type: "oral"
   status: "Presented"
 
@@ -313,6 +377,111 @@
   presentation_type: "oral"
   status: "Presented"
 
+- id: yokoyama2024vsj
+  year: 2024
+  category: domestic
+  type: conference
+  authors:
+    - 横山裕杜
+    - 市原さやか
+    - 丸岡敬和
+    - Worby William
+    - 田川義之
+  title: "高速度偏光カメラを用いた三次元応力場の非定常計測手法とその適用例"
+  event: "第52回可視化情報シンポジウム"
+  event_url: ""
+  presentation_url: ""
+  location: "沖縄"
+  country: "Japan"
+  date: "2024"
+  presentation_type: "invited"
+  status: "Presented"
+
+- id: yamagata2024idea
+  year: 2024
+  category: domestic
+  type: conference
+  authors:
+    - 山形倖平
+    - 関口翔斗
+    - 渡部裕也
+    - 横山裕杜
+    - 宮武駿
+    - 長龍佑
+    - 田川義之
+  title: "アナフィジェット ~ 小さな命を守る無針アドレナリン注射器 ~"
+  event: "第5回創生アイデアコンテスト"
+  event_url: ""
+  presentation_url: ""
+  location: "福島"
+  country: "Japan"
+  date: "2024"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: tagawa2024jsmf_opt
+  year: 2024
+  category: domestic
+  type: conference
+  authors:
+    - 田川義之
+    - 五十嵐大地
+    - Yee Jingzu
+    - 横山裕杜
+    - 楠野宏明
+  title: "集束ジェットによる無針注射システムの最適化：マイクロジェットのダイナミクスにおける注入距離と二次キャビテーションの影響の解明"
+  event: "混相流シンポジウム2024"
+  event_url: ""
+  presentation_url: ""
+  location: "富山"
+  country: "Japan"
+  date: "2024"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: yamagata2024jsmf_skin
+  year: 2024
+  category: domestic
+  type: conference
+  authors:
+    - 山形倖平
+    - 関口翔斗
+    - 渡部裕也
+    - 横山裕杜
+    - 田川義之
+  title: "撃力駆動の集束液体ジェット機構を用いた皮膚模擬材料内への貫入挙動解明"
+  event: "混相流シンポジウム2024"
+  event_url: ""
+  presentation_url: ""
+  location: "富山"
+  country: "Japan"
+  date: "2024"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: kikuchi2024icj
+  year: 2024
+  category: domestic
+  type: conference
+  authors:
+    - 菊地維新
+    - 横山裕杜
+    - 楠野宏明
+    - 渡部裕也
+    - 山形倖平
+    - 田川義之
+  title: "打撃ジェット速度における床材の影響"
+  event: "Imaging Conference JAPAN 2024"
+  event_url: ""
+  presentation_url: ""
+  location: "東京"
+  country: "Japan"
+  date: "2024"
+  presentation_type: "oral"
+  status: "Presented"
+
+# 2023
+
 - id: yokoyama2023iutam
   year: 2023
   category: international
@@ -508,109 +677,6 @@
   location: "Osaka"
   country: "Japan"
   date: "2023"
-  presentation_type: "oral"
-  status: "Presented"
-
-- id: yokoyama2024vsj
-  year: 2024
-  category: domestic
-  type: conference
-  authors:
-    - 横山裕杜
-    - 市原さやか
-    - 丸岡敬和
-    - Worby William
-    - 田川義之
-  title: "高速度偏光カメラを用いた三次元応力場の非定常計測手法とその適用例"
-  event: "第52回可視化情報シンポジウム"
-  event_url: ""
-  presentation_url: ""
-  location: "沖縄"
-  country: "Japan"
-  date: "2024"
-  presentation_type: "invited"
-  status: "Presented"
-
-- id: yamagata2024idea
-  year: 2024
-  category: domestic
-  type: conference
-  authors:
-    - 山形倖平
-    - 関口翔斗
-    - 渡部裕也
-    - 横山裕杜
-    - 宮武駿
-    - 長龍佑
-    - 田川義之
-  title: "アナフィジェット ~ 小さな命を守る無針アドレナリン注射器 ~"
-  event: "第5回創生アイデアコンテスト"
-  event_url: ""
-  presentation_url: ""
-  location: "福島"
-  country: "Japan"
-  date: "2024"
-  presentation_type: "oral"
-  status: "Presented"
-
-- id: tagawa2024jsmf_opt
-  year: 2024
-  category: domestic
-  type: conference
-  authors:
-    - 田川義之
-    - 五十嵐大地
-    - Yee Jingzu
-    - 横山裕杜
-    - 楠野宏明
-  title: "集束ジェットによる無針注射システムの最適化：マイクロジェットのダイナミクスにおける注入距離と二次キャビテーションの影響の解明"
-  event: "混相流シンポジウム2024"
-  event_url: ""
-  presentation_url: ""
-  location: "富山"
-  country: "Japan"
-  date: "2024"
-  presentation_type: "oral"
-  status: "Presented"
-
-- id: yamagata2024jsmf_skin
-  year: 2024
-  category: domestic
-  type: conference
-  authors:
-    - 山形倖平
-    - 関口翔斗
-    - 渡部裕也
-    - 横山裕杜
-    - 田川義之
-  title: "撃力駆動の集束液体ジェット機構を用いた皮膚模擬材料内への貫入挙動解明"
-  event: "混相流シンポジウム2024"
-  event_url: ""
-  presentation_url: ""
-  location: "富山"
-  country: "Japan"
-  date: "2024"
-  presentation_type: "oral"
-  status: "Presented"
-
-- id: kikuchi2024icj
-  year: 2024
-  category: domestic
-  type: conference
-  authors:
-    - 菊地維新
-    - 横山裕杜
-    - 楠野宏明
-    - 渡部裕也
-    - 山形倖平
-    - 田川義之
-  title: "打撃ジェット速度における床材の影響"
-  event: "Imaging Conference JAPAN 2024"
-  event_url: ""
-  presentation_url: ""
-  location: "東京"
-  country: "Japan"
-  date: "2024"
   presentation_type: "oral"
   status: "Presented"
 
@@ -829,14 +895,7 @@
   presentation_type: "oral"
   status: "Presented"
 
-
-
-
-
-
-
-
-
+# 2022
 
 - id: yokoyama2022apsdfd_deformable
   year: 2022
@@ -958,43 +1017,6 @@
   presentation_type: "oral"
   status: "Presented"
 
-- id: yokoyama2021droplets_bloodglass
-  year: 2021
-  category: international
-  type: conference
-  authors:
-    - Yuto Yokoyama
-    - Akane Tanaka
-    - Yoshiyuki Tagawa
-  title: "Comparative experiments on the droplet impact of blood onto a glass substrate"
-  event: "Droplets 2021"
-  event_url: ""
-  presentation_url: ""
-  location: "Online"
-  country: ""
-  date: "2021"
-  presentation_type: "poster"
-  status: "Presented"
-
-- id: yokoyama2019apsdfd_bloodsplashing
-  year: 2019
-  category: international
-  type: conference
-  authors:
-    - Yuto Yokoyama
-    - Masanori Takeda
-    - Hajime Onuki
-    - Yoshiyuki Tagawa
-  title: "Influence of characteristic components of blood on blood splashing onto a solid wall"
-  event: "72nd Annual Meeting of the American Physical Society Division of Fluid Dynamics"
-  event_url: ""
-  presentation_url: ""
-  location: "Seattle"
-  country: "USA"
-  date: "2019"
-  presentation_type: "poster"
-  status: "Presented"
-
 - id: tagawa2022nagare_rectchannelsystem
   year: 2022
   category: domestic
@@ -1112,6 +1134,26 @@
   presentation_type: "oral"
   status: "Presented"
 
+# 2021
+
+- id: yokoyama2021droplets_bloodglass
+  year: 2021
+  category: international
+  type: conference
+  authors:
+    - Yuto Yokoyama
+    - Akane Tanaka
+    - Yoshiyuki Tagawa
+  title: "Comparative experiments on the droplet impact of blood onto a glass substrate"
+  event: "Droplets 2021"
+  event_url: ""
+  presentation_url: ""
+  location: "Online"
+  country: ""
+  date: "2021"
+  presentation_type: "poster"
+  status: "Presented"
+
 - id: yokoyama2021jsmf_softsubstrate
   year: 2021
   category: domestic
@@ -1163,6 +1205,8 @@
   presentation_type: "oral"
   status: "Presented"
 
+# 2020
+
 - id: yokoyama2020jsme_bloodrheology
   year: 2020
   category: domestic
@@ -1181,6 +1225,27 @@
   presentation_type: "oral"
   status: "Presented"
 
+# 2019
+
+- id: yokoyama2019apsdfd_bloodsplashing
+  year: 2019
+  category: international
+  type: conference
+  authors:
+    - Yuto Yokoyama
+    - Masanori Takeda
+    - Hajime Onuki
+    - Yoshiyuki Tagawa
+  title: "Influence of characteristic components of blood on blood splashing onto a solid wall"
+  event: "72nd Annual Meeting of the American Physical Society Division of Fluid Dynamics"
+  event_url: ""
+  presentation_url: ""
+  location: "Seattle"
+  country: "USA"
+  date: "2019"
+  presentation_type: "poster"
+  status: "Presented"
+
 - id: yokoyama2019kosen_shearthickening
   year: 2019
   category: domestic
@@ -1197,6 +1262,8 @@
   date: "2019"
   presentation_type: "oral"
   status: "Presented"
+
+# 2018
 
 # - id: yokoyama2018kosen_mongol
 #   year: 2018
