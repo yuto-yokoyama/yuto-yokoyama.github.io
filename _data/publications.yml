@@ -1,5 +1,26 @@
 ################### 2026 ###################
 
+- id: kawaguchi2026heleshaw
+  year: 2026
+  type: journal
+  authors:
+    - Misa Kawaguchi
+    - William Kai Alexander Worby
+    - Yuto Yokoyama
+    - Ryuta X. Suzuki
+    - Yuichiro Nagatsu
+    - Yoshiyuki Tagawa
+  title: "Flow birefringence measurement in a radial Hele-Shaw cell considering three-dimensional effects"
+  journal: "Experimental Thermal and Fluid Science"
+  volume: "176"
+  number: ""
+  pages: "111773"
+  doi: "10.1016/j.expthermflusci.2026.111773"
+  url: "https://doi.org/10.1016/j.expthermflusci.2026.111773"
+  status: "Preprint"
+  peer_reviewed: true
+  open_access: true
+  
 - id: kikuchi2026interfacial
   year: 2026
   type: preprint
@@ -79,27 +100,6 @@
   pages: "2504.15952"
   doi: "10.48550/arXiv.2504.15952"
   url: "https://doi.org/10.48550/arXiv.2504.15952"
-  status: "Preprint"
-  peer_reviewed: false
-  open_access: true
-
-- id: kawaguchi2025heleshaw
-  year: 2025
-  type: preprint
-  authors:
-    - Misa Kawaguchi
-    - William Kai Alexander Worby
-    - Yuto Yokoyama
-    - Ryuta X. Suzuki
-    - Yuichiro Nagatsu
-    - Yoshiyuki Tagawa
-  title: "Flow birefringence of shear-thinning fluid in a Hele-Shaw cell"
-  journal: "arXiv"
-  volume: ""
-  number: ""
-  pages: "2503.10261"
-  doi: "10.48550/arXiv.2503.10261"
-  url: "https://doi.org/10.48550/arXiv.2503.10261"
   status: "Preprint"
   peer_reviewed: false
   open_access: true
