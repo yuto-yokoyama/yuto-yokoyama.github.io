@@ -1,3 +1,17 @@
+- id: newpaper_Kawaguchi2026_HeleShaw
+  type: paper
+  date: "2026-05-19"
+  text: "A new paper about flow birefringence in a radial Hele-Shaw cell was published in Experimental Thermal and Fluid Science."
+  url: "https://doi.org/10.1016/j.expthermflusci.2026.111773"
+  link_label: "[Link]"
+
+- id: newpaper_Yokoyama2026_FIB
+  type: paper
+  date: "2026-04-23"
+  text: "A new paper about the polydisperse colloidal rod alignment is available on arXiv."
+  url: "https://doi.org/10.48550/arXiv.2604.20678"
+  link_label: "[Link]"
+
 - id: movetoKAUST
   type: position
   date: "2026-02-02"
