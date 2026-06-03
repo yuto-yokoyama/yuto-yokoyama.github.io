@@ -20,6 +20,27 @@
   status: "Preprint"
   peer_reviewed: true
   open_access: true
+
+- id: yokoyama2026flowbirefringence
+  year: 2026
+  type: preprint
+  authors:
+    - Yuto Yokoyama
+    - Vincenzo Calabrese
+    - Fabian Hillebrand
+    - Henry J. London
+    - Simon J. Haward
+    - Amy Q. Shen
+  title: "Flow-history-dependent orientational relaxation in dilute polydisperse colloidal rod suspensions"
+  journal: "arXiv"
+  volume: ""
+  number: ""
+  pages: "2604.20678"
+  doi: "10.48550/arXiv.2604.20678"
+  url: "https://doi.org/10.48550/arXiv.2604.20678"
+  status: "Preprint"
+  peer_reviewed: false
+  open_access: true
   
 - id: kikuchi2026interfacial
   year: 2026
