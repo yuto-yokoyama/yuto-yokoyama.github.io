@@ -105,7 +105,7 @@
   presentation_url: ""
   location: "Houston"
   country: "USA"
-  date: "2025"
+  date: "2025-00-00"
   presentation_type: "oral"
   status: "Presented"
   
@@ -225,7 +225,7 @@
   presentation_url: ""
   location: "Edinburgh"
   country: "UK"
-  date: "2024"
+  date: "2024-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -284,7 +284,7 @@
   presentation_url: ""
   location: "Utah"
   country: "USA"
-  date: "2024"
+  date: "2024-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -305,7 +305,7 @@
   presentation_url: ""
   location: "Utah"
   country: "USA"
-  date: "2024"
+  date: "2024-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -325,7 +325,7 @@
   presentation_url: ""
   location: "Utah"
   country: "USA"
-  date: "2024"
+  date: "2024-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -345,7 +345,7 @@
   presentation_url: ""
   location: "Aachen"
   country: "Germany"
-  date: "2024"
+  date: "2024-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -363,7 +363,7 @@
   presentation_url: ""
   location: "Daegu"
   country: "Korea"
-  date: "2024"
+  date: "2024-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -384,7 +384,7 @@
   presentation_url: ""
   location: "Daegu"
   country: "Korea"
-  date: "2024"
+  date: "2024-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -404,7 +404,7 @@
   presentation_url: ""
   location: "Daegu"
   country: "Korea"
-  date: "2024"
+  date: "2024-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -423,7 +423,7 @@
   presentation_url: ""
   location: "Lisbon"
   country: "Portugal"
-  date: "2024"
+  date: "2024-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -443,7 +443,7 @@
   presentation_url: ""
   location: "Lisbon"
   country: "Portugal"
-  date: "2024"
+  date: "2024-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -463,7 +463,7 @@
   presentation_url: ""
   location: "Lisbon"
   country: "Portugal"
-  date: "2024"
+  date: "2024-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -483,7 +483,7 @@
   presentation_url: ""
   location: "沖縄"
   country: "Japan"
-  date: "2024"
+  date: "2024-00-00"
   presentation_type: "invited"
   status: "Presented"
 
@@ -505,7 +505,7 @@
   presentation_url: ""
   location: "福島"
   country: "Japan"
-  date: "2024"
+  date: "2024-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -525,7 +525,7 @@
   presentation_url: ""
   location: "富山"
   country: "Japan"
-  date: "2024"
+  date: "2024-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -545,7 +545,7 @@
   presentation_url: ""
   location: "富山"
   country: "Japan"
-  date: "2024"
+  date: "2024-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -566,7 +566,7 @@
   presentation_url: ""
   location: "東京"
   country: "Japan"
-  date: "2024"
+  date: "2024-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -587,7 +587,7 @@
   presentation_url: ""
   location: "Tokyo"
   country: "Japan"
-  date: "2023"
+  date: "2023-00-00"
   presentation_type: "poster"
   status: "Presented"
 
@@ -609,7 +609,7 @@
   presentation_url: ""
   location: "Tokyo"
   country: "Japan"
-  date: "2023"
+  date: "2023-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -627,7 +627,7 @@
   presentation_url: ""
   location: "Washington D.C."
   country: "USA"
-  date: "2023"
+  date: "2023-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -647,7 +647,7 @@
   presentation_url: ""
   location: "Washington D.C."
   country: "USA"
-  date: "2023"
+  date: "2023-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -666,7 +666,7 @@
   presentation_url: ""
   location: "Washington D.C."
   country: "USA"
-  date: "2023"
+  date: "2023-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -688,7 +688,7 @@
   presentation_url: ""
   location: "Washington D.C."
   country: "USA"
-  date: "2023"
+  date: "2023-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -706,7 +706,7 @@
   presentation_url: ""
   location: "Chiba"
   country: "Japan"
-  date: "2023"
+  date: "2023-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -726,7 +726,7 @@
   presentation_url: ""
   location: "Osaka"
   country: "Japan"
-  date: "2023"
+  date: "2023-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -746,7 +746,7 @@
   presentation_url: ""
   location: "Osaka"
   country: "Japan"
-  date: "2023"
+  date: "2023-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -766,7 +766,7 @@
   presentation_url: ""
   location: "Osaka"
   country: "Japan"
-  date: "2023"
+  date: "2023-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -786,7 +786,7 @@
   presentation_url: ""
   location: "大阪"
   country: "Japan"
-  date: "2023"
+  date: "2023-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -806,7 +806,7 @@
   presentation_url: ""
   location: "京都"
   country: "Japan"
-  date: "2023"
+  date: "2023-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -825,7 +825,7 @@
   presentation_url: ""
   location: "東京"
   country: "Japan"
-  date: "2023"
+  date: "2023-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -843,7 +843,7 @@
   presentation_url: ""
   location: "札幌"
   country: "Japan"
-  date: "2023"
+  date: "2023-00-00"
   presentation_type: "poster"
   status: "Presented"
 
@@ -863,7 +863,7 @@
   presentation_url: ""
   location: "札幌"
   country: "Japan"
-  date: "2023"
+  date: "2023-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -883,7 +883,7 @@
   presentation_url: ""
   location: "小樽"
   country: "Japan"
-  date: "2023"
+  date: "2023-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -905,7 +905,7 @@
   presentation_url: ""
   location: "小樽"
   country: "Japan"
-  date: "2023"
+  date: "2023-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -1005,7 +1005,7 @@
   presentation_url: ""
   location: "Indianapolis"
   country: "USA"
-  date: "2022"
+  date: "2022-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -1024,7 +1024,7 @@
   presentation_url: ""
   location: "Indianapolis"
   country: "USA"
-  date: "2022"
+  date: "2022-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -1043,7 +1043,7 @@
   presentation_url: ""
   location: "Indianapolis"
   country: "USA"
-  date: "2022"
+  date: "2022-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -1064,7 +1064,7 @@
   presentation_url: ""
   location: "Columbus"
   country: "USA"
-  date: "2022"
+  date: "2022-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -1084,7 +1084,7 @@
   presentation_url: ""
   location: "Lisbon"
   country: "Portugal"
-  date: "2022"
+  date: "2022-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -1103,7 +1103,7 @@
   presentation_url: ""
   location: "Lisbon"
   country: "Portugal"
-  date: "2022"
+  date: "2022-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -1124,7 +1124,7 @@
   presentation_url: ""
   location: "京都"
   country: "Japan"
-  date: "2022"
+  date: "2022-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -1144,7 +1144,7 @@
   presentation_url: ""
   location: "京都"
   country: "Japan"
-  date: "2022"
+  date: "2022-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -1160,7 +1160,7 @@
   presentation_url: ""
   location: "大阪"
   country: "Japan"
-  date: "2022"
+  date: "2022-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -1182,7 +1182,7 @@
   presentation_url: ""
   location: "鳥取"
   country: "Japan"
-  date: "2022"
+  date: "2022-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -1202,7 +1202,7 @@
   presentation_url: ""
   location: "オンライン"
   country: "Japan"
-  date: "2022"
+  date: "2022-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -1220,7 +1220,7 @@
   presentation_url: ""
   location: "岐阜"
   country: "Japan"
-  date: "2022"
+  date: "2022-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -1240,7 +1240,7 @@
   presentation_url: ""
   location: "Online"
   country: ""
-  date: "2021"
+  date: "2021-00-00"
   presentation_type: "poster"
   status: "Presented"
 
@@ -1257,7 +1257,7 @@
   presentation_url: ""
   location: "オンライン"
   country: "Japan"
-  date: "2021"
+  date: "2021-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -1274,7 +1274,7 @@
   presentation_url: ""
   location: "オンライン"
   country: "Japan"
-  date: "2021"
+  date: "2021-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -1291,7 +1291,7 @@
   presentation_url: ""
   location: "オンライン"
   country: "Japan"
-  date: "2021"
+  date: "2021-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -1311,7 +1311,7 @@
   presentation_url: ""
   location: "東京"
   country: "Japan"
-  date: "2020"
+  date: "2020-00-00"
   presentation_type: "oral"
   status: "Presented"
 
@@ -1332,7 +1332,7 @@
   presentation_url: ""
   location: "Seattle"
   country: "USA"
-  date: "2019"
+  date: "2019-00-00"
   presentation_type: "poster"
   status: "Presented"
 
@@ -1349,7 +1349,7 @@
   presentation_url: ""
   location: "栃木"
   country: "Japan"
-  date: "2019"
+  date: "2019-00-00"
   presentation_type: "oral"
   status: "Presented"
 
