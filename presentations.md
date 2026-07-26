@@ -5,7 +5,7 @@ permalink: /presentations/
 
 # International Conferences
 
-{% assign intl = site.data.presentations | where: "category", "international" | sort: "year" | reverse %}
+{% assign intl = site.data.presentations | where: "category", "international" | sort: "date" | reverse %}
 {% assign current_year = "" %}
 
 {% for p in intl %}
@@ -22,7 +22,7 @@ permalink: /presentations/
 
 # Domestic Conferences
 
-{% assign dom = site.data.presentations | where: "category", "domestic" | sort: "year" | reverse %}
+{% assign dom = site.data.presentations | where: "category", "domestic" | sort: "date" | reverse %}
 {% assign current_year = "" %}
 
 {% for p in dom %}
