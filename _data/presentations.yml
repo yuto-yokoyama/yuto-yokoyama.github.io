@@ -1,11 +1,101 @@
-# 2025
+# 2026
 
+- id: tagawa2026Lisbon
+  year: 2026
+  category: international
+  type: conference
+  authors:
+    - Yoshiyuki Tagawa
+    - Yuto Yokoyama
+    - Kaie Matsunuma
+    - Hirokazu Maruoka
+  title: "Imaging Transient Stress Fields in Soft Materials during Droplet Impact by Photoelastic Tomography"
+  event: "22nd International Symposium on Application of Laser and Imaging Techniques to Fluid Mechanics"
+  event_url: "https://www.lisbonsymposia.org/22nd-lxsymp"
+  presentation_url: ""
+  location: "Lisbon"
+  country: "Portugal"
+  date: "2026-06-29"
+  presentation_type: "oral"
+  status: "Presented"
+
+
+
+- id: naito2026Lisbon
+  year: 2026
+  category: international
+  type: conference
+  authors:
+    - Masanori Naito
+    - Yuto Yokoyama
+    - William K. A. Worby
+    - Misa Kawaguchi
+    - Yoshiyuki Tagawa
+  title: "Effects of Three-Dimensional Particle Orientation on Photoelastic Response in Polarization-Based Fluid Stress Measurement"
+  event: "22nd International Symposium on Application of Laser and Imaging Techniques to Fluid Mechanics"
+  event_url: "https://www.lisbonsymposia.org/22nd-lxsymp"
+  presentation_url: ""
+  location: "Lisbon"
+  country: "Portugal"
+  date: "2026-06-29"
+  presentation_type: "oral"
+  status: "Presented"
+  
+
+- id: worby2026fukuzatsu
+  year: 2026
+  category: domestic
+  type: conference
+  authors:
+    - William K. A. Worb
+    - 横山裕杜
+    - 川口美沙
+    - 田川義之
+  title: "レオメトリックせん断流動下におけるCNC懸濁液の応力光学計測"
+  event: "第29回複雑流体研究会"
+  event_url: "https://www.osakac.ac.jp/labs/tyamamot/cf/%E7%AC%AC29%E5%9B%9E%E8%A4%87%E9%9B%91%E6%B5%81%E4%BD%93%E7%A0%94%E7%A9%B6%E4%BC%9A%EF%BC%8820%E5%91%A8%E5%B9%B4%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%EF%BC%89_ver4.pdf"
+  presentation_url: ""
+  location: "滋賀"
+  country: "Japan"
+  date: "2026-06-20"
+  presentation_type: "oral"
+  status: "Presented"
+
+
+- id: yamagata2026bioengineering
+  year: 2026
+  category: domestic
+  type: conference
+  authors:
+    - 山形倖平
+    - 横山裕杜
+    - 関口翔斗
+    - 渡部裕也
+    - Prasad Sonar
+    - 田川義之
+  title: "打撃ジェット機構による生体模擬材料への貫入現象の解明"
+  event: "第38回バイオエンジニアリング講演会"
+  event_url: "https://www.jsme.or.jp/conference/bioconf26/index.html"
+  presentation_url: ""
+  location: "東京"
+  country: "Japan"
+  date: "2026-06-13"
+  presentation_type: "oral"
+  status: "Presented"
+  
+
+
+
+
+
+# 2025
+  
 - id: william2025apsdfd_cnc
   year: 2025
   category: international
   type: conference
   authors:
-    - William W. K. A.
+    - William K. A. Worby.
     - Misa Kawaguchi
     - Yuto Yokoyama
     - Yoshiyuki Tagawa
@@ -44,7 +134,7 @@
   type: conference
   authors:
     - 小林 みう
-    - William K.A. Worby
+    - William K. A. Worby
     - 横山 裕杜
     - 川口 美沙
     - 田川 義之
@@ -125,7 +215,7 @@
   authors:
     - Misa Kawaguchi
     - Yuto Yokoyama
-    - William W. K. A. Worby
+    - William K. A. Worby
     - Ryuta X. Suzuki
     - Yuichiro Nagatsu
     - Yoshiyuki Tagawa
@@ -284,7 +374,7 @@
   authors:
     - Misa Kawaguchi
     - Yuto Yokoyama
-    - William K.A. Worby
+    - William K. A. Worby
     - Ryuta X. Suzuki
     - Yuichiro Nagatsu
     - Yoshiyuki Tagawa
@@ -343,7 +433,7 @@
   type: conference
   authors:
     - Miu Kobayashi
-    - William K.A. Worby
+    - William K. A. Worby
     - Yuto Yokoyama
     - Misa Kawaguchi
     - Yoshiyuki Tagawa
@@ -362,7 +452,7 @@
   category: international
   type: conference
   authors:
-    - William K.A. Worby
+    - William K. A. Worby
     - Yuto Yokoyama
     - Misa Kawaguchi
     - Hiroaki Kusuno
