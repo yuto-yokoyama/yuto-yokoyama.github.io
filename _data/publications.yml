@@ -1,5 +1,25 @@
 ################### 2026 ###################
 
+- id: kikuchi2026interfacial
+  year: 2026
+  type: preprint
+  authors:
+    - Ishin Kikuchi
+    - Hiroya Watanabe
+    - Yuto Yokoyama
+    - Hiroaki Kusuno
+    - Yoshiyuki Tagawa
+  title: "Velocity of focused liquid jets induced by impact across rigid and soft substrates"
+  journal: "Journal of Fluid Mechanics"
+  volume: "1041"
+  number: ""
+  pages: "A6"
+  doi: "10.1017/jfm.2026.11851"
+  url: "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/velocity-of-focused-liquid-jets-induced-by-impact-across-rigid-and-soft-substrates/4551960ABFAD4CBE72817C8EC3744037#article"
+  status: "Published"
+  peer_reviewed: true
+  open_access: true
+  
 - id: kawaguchi2026heleshaw
   year: 2026
   type: journal
@@ -38,26 +58,6 @@
   pages: "2604.20678"
   doi: "10.48550/arXiv.2604.20678"
   url: "https://doi.org/10.48550/arXiv.2604.20678"
-  status: "Preprint"
-  peer_reviewed: false
-  open_access: true
-  
-- id: kikuchi2026interfacial
-  year: 2026
-  type: preprint
-  authors:
-    - Ishin Kikuchi
-    - Hiroya Watanabe
-    - Yuto Yokoyama
-    - Hiroaki Kusuno
-    - Yoshiyuki Tagawa
-  title: "Interfacial dynamics induced by impacts across rigid and soft substrates"
-  journal: "arXiv"
-  volume: ""
-  number: ""
-  pages: "2602.06416"
-  doi: "10.48550/arXiv.2602.06416"
-  url: "https://doi.org/10.48550/arXiv.2602.06416"
   status: "Preprint"
   peer_reviewed: false
   open_access: true
