@@ -1,3 +1,10 @@
+- id: newpaper_Kikuchi2026_focused_liquid_jets
+  type: paper
+  date: "2026-08-26"
+  text: "A new paper about a liquid jet induced by impact on elastic substrates was published in Journal of Fluid Mechanics."
+  url: "https://doi.org/10.1017/jfm.2026.11851"
+  link_label: "[Link]"
+  
 - id: newpaper_Kawaguchi2026_HeleShaw
   type: paper
   date: "2026-05-19"
