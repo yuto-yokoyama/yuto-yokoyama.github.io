@@ -12,7 +12,7 @@ minima:
   skin: auto
   nav_pages:
     - index.md
-    - publications.md
+    - publications-gallery.md
     - presentations.md
     - news.md
     - cv.md
