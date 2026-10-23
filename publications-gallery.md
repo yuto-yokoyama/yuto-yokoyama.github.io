@@ -1,6 +1,6 @@
 ---
 title: Publications
-permalink: /publications-gallery/
+permalink: /publications/
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/publication-filter.css' | relative_url }}?v={{ site.time | date: '%s' }}">

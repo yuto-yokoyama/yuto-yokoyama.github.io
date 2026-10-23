@@ -1,8 +1,15 @@
 # Publication images
 
-The image list is a separate page: `publications-gallery.md`, at
-`/publications-gallery/`. The original `publications.md` and `/publications/`
-remain unchanged, as does site navigation. Both pages read the same YAML data.
+The image list is implemented in `publications-gallery.md` and is served at
+`/publications/`, the canonical Publications URL. The site navigation points to
+that source file. `/publications-gallery/` redirects to `/publications/`, so
+earlier navigation links and bookmarks also reach the image list.
+
+The original `publications.md` is retained at `/publications-legacy/`; only its
+permalink has changed, and its content remains intact. Both pages read the same
+YAML data. To restore the legacy layout at the canonical URL, move the gallery
+to a different permalink, set `publications.md` back to `/publications/`, and
+point `minima.nav_pages` back to `publications.md`. Keep each permalink unique.
 
 Each record in `_data/publications.yml`, `_data/japanese_articles.yml`, and
 `_data/books.yml` has an optional `image` field. To add a representative image:
