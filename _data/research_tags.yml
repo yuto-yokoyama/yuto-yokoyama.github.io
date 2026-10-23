@@ -1,7 +1,7 @@
 - id: droplet-impact
   label: Droplet Impact
 - id: jet-dynamics
-  label: Jet Dynamics
+  label: Liquid Jet
 - id: photoelasticity
   label: Photoelasticity
 - id: rheology
