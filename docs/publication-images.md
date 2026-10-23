@@ -2,8 +2,8 @@
 
 The image list is implemented in `publications-gallery.md` and is served at
 `/publications/`, the canonical Publications URL. The site navigation points to
-that source file. `/publications-gallery/` redirects to `/publications/`, so
-earlier navigation links and bookmarks also reach the image list.
+that source file directly; no redirect page is required. The former
+`/publications-gallery/` URL is no longer served.
 
 The original `publications.md` is retained at `/publications-legacy/`; only its
 permalink has changed, and its content remains intact. Both pages read the same
