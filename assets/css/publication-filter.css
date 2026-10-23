@@ -1,11 +1,11 @@
 .publication-filter {
   margin: 0 0 2rem;
   padding: 1.25rem;
-  border: 1px solid #d9dde3;
-  border-radius: 12px;
-  background: #f8f9fb;
-  color: #202630;
-  font-family: system-ui, sans-serif;
+  border: 1px solid var(--minima-border-color-01);
+  border-radius: 4px;
+  background: var(--minima-background-color);
+  color: var(--minima-text-color);
+  font-family: inherit;
 }
 
 .publication-filter h2 {
@@ -42,10 +42,10 @@
 .publication-empty button {
   min-height: 44px;
   padding: .625rem 1rem;
-  border: 1px solid #b7bec9;
-  border-radius: 8px;
-  background: #fff;
-  color: #202630;
+  border: 1px solid var(--minima-border-color-03);
+  border-radius: 4px;
+  background: var(--minima-background-color);
+  color: var(--minima-text-color);
   font: inherit;
   line-height: 1.3;
   cursor: pointer;
@@ -53,20 +53,19 @@
 
 .publication-filter button:hover,
 .publication-empty button:hover {
-  border-color: #202630;
-  background: #edf0f4;
+  border-color: var(--minima-text-color);
+  background: var(--minima-code-background-color);
 }
 
 .publication-filter button[aria-pressed="true"] {
-  border-color: #202630;
-  background: #202630;
-  color: #fff;
-  box-shadow: inset 0 0 0 1px currentColor;
+  border-color: var(--minima-text-color);
+  background: var(--minima-text-color);
+  color: var(--minima-background-color);
 }
 
 .publication-filter button:focus-visible,
 .publication-empty button:focus-visible {
-  outline: 3px solid #176ac6;
+  outline: 3px solid var(--minima-link-base-color);
   outline-offset: 3px;
 }
 
@@ -78,15 +77,15 @@
 .publication-filter .publication-filter__note {
   margin: .5rem 0 0;
   font-size: .8125rem;
-  color: #535e70;
+  color: var(--minima-brand-color-dimmed);
 }
 
 .publication-empty {
   margin: 0 0 2rem;
   padding: 1.5rem;
-  border: 1px dashed #b7bec9;
-  border-radius: 12px;
-  font-family: system-ui, sans-serif;
+  border: 1px dashed var(--minima-border-color-03);
+  border-radius: 4px;
+  font-family: inherit;
 }
 
 .publication-item > p {
@@ -105,47 +104,5 @@
   .publication-filter button {
     padding-inline: .75rem;
     font-size: .875rem;
-  }
-}
-
-
-@media (prefers-color-scheme: dark) {
-  .publication-filter {
-    background: #20242b;
-    color: #e8ecf2;
-    border-color: #454d5b;
-  }
-
-  .publication-filter button,
-  .publication-empty button {
-    background: #2b313b;
-    color: #e8ecf2;
-    border-color: #667184;
-  }
-
-  .publication-filter button:hover,
-  .publication-empty button:hover {
-    background: #3a4350;
-    border-color: #aab5c5;
-  }
-
-  .publication-filter button[aria-pressed="true"] {
-    background: #e8ecf2;
-    color: #202630;
-    border-color: #e8ecf2;
-  }
-
-  .publication-filter .publication-filter__note {
-    color: #b5bfce;
-  }
-
-  .publication-empty {
-    color: #e8ecf2;
-    border-color: #667184;
-  }
-
-  .publication-filter button:focus-visible,
-  .publication-empty button:focus-visible {
-    outline-color: #8abaff;
   }
 }

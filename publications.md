@@ -5,7 +5,7 @@ permalink: /publications/
 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="{{ '/assets/css/publication-filter.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/publication-filter.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 <script src="{{ '/assets/js/publication-filter.js' | relative_url }}" defer></script>
 
 <div data-publications>
