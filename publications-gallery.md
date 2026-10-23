@@ -22,14 +22,14 @@ permalink: /publications/
         {% endfor %}
       </div>
     </fieldset>
-    <fieldset>
+    <!-- <fieldset>
       <legend>Institutions</legend>
       <div class="publication-filter__buttons">
         {% for tag in site.data.institution_tags %}
         <button type="button" data-filter-tag="{{ tag.id | escape }}" aria-pressed="false" aria-controls="publication-results">{{ tag.label | escape }}</button>
         {% endfor %}
       </div>
-    </fieldset>
+    </fieldset> -->
     <p class="publication-filter__count" data-publication-count role="status" aria-live="polite" aria-atomic="true"></p>
   </div>
 
