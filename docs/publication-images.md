@@ -31,6 +31,12 @@ radius. Images use `object-fit: cover` and `object-position: center`, preserving
 their aspect ratio and cropping the overflow. On narrow screens the image sits
 above its citation. Images are loaded lazily.
 
+Click or tap a loaded thumbnail to view the full, uncropped image in a modal.
+Close it with the Close button, the backdrop, or Escape; keyboard focus returns
+to the thumbnail. Empty or failed images remain noninteractive placeholders.
+Without JavaScript or native dialog support, the thumbnail links directly to
+the original image. No external image-viewer dependency is required.
+
 Optional fields customize accessibility and cropping without template changes:
 
 ```yaml
