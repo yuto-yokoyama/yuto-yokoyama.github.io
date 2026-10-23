@@ -13,7 +13,7 @@ title: Home
     </p>
     
     <p>
-      My research focuses on multiphase flows, particularly droplet impact dynamics and flow-induced stress and birefringence in soft and complex materials.
+      My research focuses on multiphase flows, particularly droplet dynamics and flow-induced birefringence in soft materials.
     </p>
   </div>
 
