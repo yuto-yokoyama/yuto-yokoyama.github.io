@@ -18,7 +18,7 @@ title: Home
   </div>
 
   <div style="flex: 0 0 300px;">
-    <img src="/assets/img/photo_yuto.jpg" alt="Profile photo" style="width: 100%; max-width: 300px; height: auto; border: none;" />
+    <img src="/assets/img/photo_yuto.JPG" alt="Profile photo" style="width: 100%; max-width: 300px; height: auto; border: none;" />
   </div>
 
 </div>
