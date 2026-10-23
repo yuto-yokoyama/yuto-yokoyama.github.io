@@ -1,0 +1,47 @@
+{% assign publication = include.publication %}
+{% assign image_file = nil %}
+{% if publication.image and publication.image != "" %}
+  {% assign image_file = site.static_files | where: "path", publication.image | first %}
+{% endif %}
+{% assign paper_url = publication.url %}
+{% if paper_url == nil or paper_url == "" %}
+  {% if publication.doi and publication.doi != "" %}
+    {% assign paper_url = publication.doi | prepend: "https://doi.org/" %}
+  {% endif %}
+{% endif %}
+<li class="publication-card" data-publication-id="{{ publication.id | escape }}" data-tags="{{ publication.tags | join: ' ' | escape }}">
+  <div class="publication-thumbnail">
+    <div class="publication-thumbnail__placeholder" aria-hidden="true">
+      <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true" focusable="false">
+        <rect x="3" y="3" width="18" height="18" rx="3"></rect>
+        <circle cx="15.5" cy="8.5" r="1.5"></circle>
+        <path d="m3 17 5-5 9 9M13 17l3-3 5 5"></path>
+      </svg>
+      <span>Image coming soon</span>
+    </div>
+    {% if image_file %}
+    <img src="{{ publication.image | relative_url }}" width="160" height="120" loading="lazy" decoding="async" alt="{% if publication.image_alt and publication.image_alt != '' %}{{ publication.image_alt | escape }}{% else %}Representative figure for {{ publication.title | escape }}{% endif %}" style="object-position: {{ publication.image_position | default: 'center' | escape }}" data-publication-image>
+    {% endif %}
+  </div>
+  <div class="publication-card__body">
+    <h4 class="publication-card__title">{% if paper_url and paper_url != "" %}<a href="{{ paper_url | escape }}">{{ publication.title | escape }}</a>{% else %}{{ publication.title | escape }}{% endif %}</h4>
+    <p class="publication-card__authors">{% for author in publication.authors %}{% if author == "Yuto Yokoyama" or author == "横山 裕杜" %}<strong>{{ author | escape }}</strong>{% else %}{{ author | escape }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+    <p class="publication-card__citation"><em>{{ publication.journal | default: publication.book_title | escape }}</em>{% if publication.publisher and publication.publisher != "" %}, {{ publication.publisher | escape }}{% endif %}{% if publication.volume and publication.volume != "" %}, {{ publication.volume | escape }}{% endif %}{% if publication.number and publication.number != "" %}({{ publication.number | escape }}){% endif %}{% if publication.pages and publication.pages != "" %}, {{ publication.pages | escape }}{% endif %} ({{ publication.year }})</p>
+    {% assign tags = publication.tags | uniq %}
+    {% if tags.size > 0 %}
+    {% assign tag_definitions = site.data.research_tags | concat: site.data.institution_tags %}
+    <ul class="publication-card__tags" aria-label="Publication tags">
+      {% for tag in tags %}
+        {% assign tag_definition = tag_definitions | where: "id", tag | first %}
+        <li>{{ tag_definition.label | default: tag | escape }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+    <p class="publication-card__links">
+      {% if publication.url and publication.url != "" %}<a href="{{ publication.url | escape }}">Paper</a>{% endif %}
+      {% if publication.doi and publication.doi != "" %}<a href="https://doi.org/{{ publication.doi | escape }}">DOI</a>{% endif %}
+      {% if publication.status and publication.status != "" %}<span>{{ publication.status | escape }}</span>{% endif %}
+      {% if publication.open_access %}<span>Open Access</span>{% endif %}
+    </p>
+  </div>
+</li>

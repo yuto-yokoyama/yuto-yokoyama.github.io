@@ -1,0 +1,16 @@
+<section data-publication-section>
+  <h2 class="publication-gallery__section-title">{{ include.heading | escape }}</h2>
+  {% assign entries = include.entries | sort: "year" | reverse %}
+  {% assign current_year = "" %}
+  {% for entry in entries %}
+    {% if entry.year != current_year %}
+      {% unless forloop.first %}</ul></div>{% endunless %}
+      <div data-publication-year>
+        <h3 class="publication-gallery__year">{{ entry.year }}</h3>
+        <ul class="publication-gallery__list">
+      {% assign current_year = entry.year %}
+    {% endif %}
+    {% include publication-card.html publication=entry %}
+    {% if forloop.last %}</ul></div>{% endif %}
+  {% endfor %}
+</section>
