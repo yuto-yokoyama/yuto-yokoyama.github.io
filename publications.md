@@ -31,7 +31,7 @@ permalink: /publications/
         {% endfor %}
       </div>
     </fieldset>
-    <p class="publication-filter__note" id="publication-institution-note">Institutions are Yuto Yokoyama's affiliations listed in each publication. Some publications have not yet been classified by institution.</p>
+    <!-- <p class="publication-filter__note" id="publication-institution-note">Institutions are Yuto Yokoyama's affiliations listed in each publication. Some publications have not yet been classified by institution.</p> -->
     <p class="publication-filter__count" data-publication-count role="status" aria-live="polite" aria-atomic="true"></p>
   </div>
 
