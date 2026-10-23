@@ -6,7 +6,7 @@ permalink: /publications/
 <link rel="stylesheet" href="{{ '/assets/css/publication-filter.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 <link rel="stylesheet" href="{{ '/assets/css/publication-gallery.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 <script src="{{ '/assets/js/publication-filter.js' | relative_url }}" defer></script>
-<script src="{{ '/assets/js/publication-images.js' | relative_url }}" defer></script>
+<script src="{{ '/assets/js/publication-images.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
 
 <div class="publication-gallery" data-publications>
   <div class="publication-filter" data-publication-controls hidden>

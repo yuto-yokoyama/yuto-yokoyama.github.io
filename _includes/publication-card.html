@@ -20,7 +20,9 @@
       <span>Image coming soon</span>
     </div>
     {% if image_file %}
+    <a class="publication-thumbnail__zoom" href="{{ publication.image | relative_url }}" aria-label="Enlarge image: {{ publication.title | escape }}" data-publication-zoom>
     <img src="{{ publication.image | relative_url }}" width="160" height="120" loading="lazy" decoding="async" alt="{% if publication.image_alt and publication.image_alt != '' %}{{ publication.image_alt | escape }}{% else %}Representative figure for {{ publication.title | escape }}{% endif %}" style="object-position: {{ publication.image_position | default: 'center' | escape }}" data-publication-image>
+    </a>
     {% endif %}
   </div>
   <div class="publication-card__body">
