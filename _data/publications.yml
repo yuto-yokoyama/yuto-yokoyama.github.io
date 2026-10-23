@@ -140,7 +140,7 @@
 ################### 2024 ###################
 
 - id: worby2024scirep
-  image: ""
+  image: "/assets/img/publications/worby2024scirep.jpg"
   tags: [flow-birefringence, rheology, tuat, oist]
   year: 2024
   type: journal
@@ -162,7 +162,7 @@
   open_access: true
 
 - id: nakamine2024cellulose
-  image: ""
+  image: "/assets/img/publications/nakamine2024cellulose.jpg"
   tags: [flow-birefringence, suspensions, rheology, tuat]
   year: 2024
   type: journal
@@ -184,7 +184,7 @@
   open_access: true
 
 - id: yokoyama2024optlaseng
-  image: ""
+  image: "/assets/img/publications/yokoyama2024optlaseng.jpg"
   tags: [photoelasticity, soft-materials, tuat]
   year: 2024
   type: journal
@@ -204,7 +204,7 @@
   open_access: true
 
 - id: igarashi2024pof042005
-  image: ""
+  image: "/assets/img/publications/igarashi2024pof042005.jpg"
   tags: [jet-dynamics, soft-materials, tuat]
   year: 2024
   type: journal
@@ -227,7 +227,7 @@
   open_access: true
 
 - id: igarashi2024pof013317
-  image: ""
+  image: "/assets/img/publications/igarashi2024pof013317.jpg"
   tags: [jet-dynamics, tuat, tuat]
   year: 2024
   type: journal
@@ -251,7 +251,7 @@
 ################### 2023 ###################
 
 - id: mitchell2023jmps
-  image: ""
+  image: "/assets/img/publications/mitchell2023jmps.jpg"
   tags: [photoelasticity, soft-materials, tuat]
   year: 2023
   type: journal
@@ -274,7 +274,7 @@
   open_access: false
 
 - id: yokoyama2023optlaseng
-  image: ""
+  image: "/assets/img/publications/yokoyama2023optlaseng.jpg"
   tags: [photoelasticity, soft-materials, tuat]
   year: 2023
   type: journal
@@ -300,7 +300,7 @@
 ################### 2022 ###################
 
 - id: yokoyama2022forsciint
-  image: ""
+  image: "/assets/img/publications/yokoyama2022forsciint.jpg"
   tags: [droplet-impact, suspensions, rheology, tuat]
   year: 2022
   type: journal
@@ -323,7 +323,7 @@
 ################### 2021 ###################
 
 - id: francogomez2021expfluids
-  image: ""
+  image: "/assets/img/publications/francogomez2021expfluids.jpg"
   tags: [jet-dynamics, rheology, tuat]
   year: 2021
   type: journal
