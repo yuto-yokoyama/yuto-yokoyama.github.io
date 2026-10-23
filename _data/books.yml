@@ -1,4 +1,5 @@
 - id: rubio2026bloodmimetics
+  tags: [droplet-impact, rheology]
   year: 2026
   type: book_chapter
   authors:
@@ -22,6 +23,7 @@
   open_access: false
 
 - id: tagawa2025gel
+  tags: [soft-materials]
   year: 2025
   type: book_chapter
   authors:

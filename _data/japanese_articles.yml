@@ -1,5 +1,5 @@
 - id: tagawa2023biomaterials
-  tags: []
+  tags: [jet-dynamics, rheology]
   year: 2023
   type: journal
   authors:
@@ -18,7 +18,7 @@
   open_access: false
 
 - id: muto2022nagare
-  tags: []
+  tags: [flow-birefringence, rheology]
   year: 2022
   type: journal
   authors:
@@ -39,7 +39,7 @@
   open_access: false
 
 - id: tagawa2020isj
-  tags: []
+  tags: [droplet-impact]
   year: 2020
   type: journal
   authors:
