@@ -1,5 +1,27 @@
 ################### 2026 ###################
 
+- id: worby2026birefringence
+  image: "/assets/img/publications/worby2026birefringence.jpg"
+  tags: [flow-birefringence, suspensions, rheology, tuat]
+  year: 2026
+  month: 10
+  type: preprint
+  authors:
+    - William Kai Alexander Worby
+    - Yuto Yokoyama
+    - Misa Kawaguchi
+    - Yoshiyuki Tagawa
+  title: "Apparent Breakdown of the Stress-Optic Rule in Rigid-Rod Suspensions: A Stress-Partitioning Interpretation"
+  journal: "arXiv"
+  volume: ""
+  number: ""
+  pages: "2609.23080"
+  doi: "10.48550/arXiv.2609.23080"
+  url: "https://arxiv.org/abs/2609.23080"
+  status: "Preprint"
+  peer_reviewed: false
+  open_access: true
+
 - id: kikuchi2026interfacial
   image: "/assets/img/publications/kikuchi2026interfacial.jpg"
   tags: [jet-dynamics, soft-materials, oist, tuat]
