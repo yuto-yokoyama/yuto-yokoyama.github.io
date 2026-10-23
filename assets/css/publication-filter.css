@@ -1,16 +1,16 @@
 .publication-filter {
   margin: 0 0 2rem;
-  padding: 1.25rem;
-  border: 1px solid var(--minima-border-color-01);
-  border-radius: 4px;
-  background: var(--minima-background-color);
-  color: var(--minima-text-color);
-  font-family: inherit;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
 }
 
 .publication-filter h2 {
   margin: 0 0 .5rem;
-  font-size: 1.25rem;
+  font-size: 1em;
+  font-weight: 600;
 }
 
 .publication-filter p {
@@ -28,7 +28,7 @@
 .publication-filter legend {
   margin-bottom: .5rem;
   padding: 0;
-  font-size: .875rem;
+  font-size: 1em;
   font-weight: 600;
 }
 
@@ -41,7 +41,7 @@
 .publication-filter button,
 .publication-empty button {
   min-height: 44px;
-  padding: .625rem 1rem;
+  padding: .5rem .75rem;
   border: 1px solid var(--minima-border-color-03);
   border-radius: 4px;
   background: var(--minima-background-color);
@@ -76,16 +76,13 @@
 
 .publication-filter .publication-filter__note {
   margin: .5rem 0 0;
-  font-size: .8125rem;
+  font-size: 1em;
   color: var(--minima-brand-color-dimmed);
 }
 
 .publication-empty {
   margin: 0 0 2rem;
-  padding: 1.5rem;
-  border: 1px dashed var(--minima-border-color-03);
-  border-radius: 4px;
-  font-family: inherit;
+  font: inherit;
 }
 
 .publication-item > p {
@@ -94,15 +91,4 @@
 
 [data-publications] [hidden] {
   display: none !important;
-}
-
-@media (max-width: 480px) {
-  .publication-filter {
-    padding: 1rem;
-  }
-
-  .publication-filter button {
-    padding-inline: .75rem;
-    font-size: .875rem;
-  }
 }
