@@ -107,3 +107,45 @@
     font-size: .875rem;
   }
 }
+
+
+@media (prefers-color-scheme: dark) {
+  .publication-filter {
+    background: #20242b;
+    color: #e8ecf2;
+    border-color: #454d5b;
+  }
+
+  .publication-filter button,
+  .publication-empty button {
+    background: #2b313b;
+    color: #e8ecf2;
+    border-color: #667184;
+  }
+
+  .publication-filter button:hover,
+  .publication-empty button:hover {
+    background: #3a4350;
+    border-color: #aab5c5;
+  }
+
+  .publication-filter button[aria-pressed="true"] {
+    background: #e8ecf2;
+    color: #202630;
+    border-color: #e8ecf2;
+  }
+
+  .publication-filter .publication-filter__note {
+    color: #b5bfce;
+  }
+
+  .publication-empty {
+    color: #e8ecf2;
+    border-color: #667184;
+  }
+
+  .publication-filter button:focus-visible,
+  .publication-empty button:focus-visible {
+    outline-color: #8abaff;
+  }
+}
