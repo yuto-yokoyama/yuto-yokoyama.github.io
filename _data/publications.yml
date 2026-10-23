@@ -1,7 +1,8 @@
 ################### 2026 ###################
 
 - id: kikuchi2026interfacial
-  tags: [jet-dynamics, soft-materials]
+  tags: [jet-dynamics, soft-materials, oist]
+  # Institution tags follow Yuto Yokoyama's listed affiliations. Source: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/velocity-of-focused-liquid-jets-induced-by-impact-across-rigid-and-soft-substrates/4551960ABFAD4CBE72817C8EC3744037
   year: 2026
   type: preprint
   authors:
@@ -44,7 +45,8 @@
   open_access: true
 
 - id: yokoyama2026flowbirefringence
-  tags: [flow-birefringence, suspensions, rheology]
+  tags: [flow-birefringence, suspensions, rheology, oist, kaust]
+  # Institution tags follow Yuto Yokoyama's listed affiliations. Source: https://arxiv.org/html/2604.20678v1
   year: 2026
   type: preprint
   authors:
@@ -110,7 +112,8 @@
 ################### 2025 ###################
 
 - id: igarashi2025piced
-  tags: [photoelasticity]
+  tags: [photoelasticity, tuat, oist]
+  # Institution tags follow Yuto Yokoyama's listed affiliations. Source: https://arxiv.org/html/2504.15952
   year: 2025
   type: preprint
   authors:
@@ -217,7 +220,8 @@
   open_access: true
 
 - id: igarashi2024pof013317
-  tags: [jet-dynamics]
+  tags: [jet-dynamics, tuat]
+  # Institution tags follow Yuto Yokoyama's listed affiliations. Source: https://api.crossref.org/works/10.1063/5.0183462
   year: 2024
   type: journal
   authors:

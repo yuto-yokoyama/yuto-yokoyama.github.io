@@ -39,7 +39,8 @@
   open_access: false
 
 - id: tagawa2020isj
-  tags: [droplet-impact]
+  tags: [droplet-impact, tuat]
+  # Institution tags follow Yuto Yokoyama's listed affiliations. Source: https://www.jstage.jst.go.jp/article/isj/59/1/59_165/_article/-char/ja/
   year: 2020
   type: journal
   authors:
