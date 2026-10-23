@@ -1,7 +1,7 @@
 ################### 2026 ###################
 
 - id: kikuchi2026interfacial
-  image: ""
+  image: "/assets/img/publications/kikuchi2026interfacial.jpg"
   tags: [jet-dynamics, soft-materials, oist, tuat]
   year: 2026
   type: preprint
@@ -23,7 +23,7 @@
   open_access: true
   
 - id: kawaguchi2026heleshaw
-  image: ""
+  image: "/assets/img/publications/kawaguchi2026heleshaw.jpg"
   tags: [flow-birefringence, rheology, oist, tuat]
   year: 2026
   type: journal
@@ -46,7 +46,7 @@
   open_access: true
 
 - id: yokoyama2026flowbirefringence
-  image: ""
+  image: "/assets/img/publications/yokoyama2026flowbirefringence.jpg"
   tags: [flow-birefringence, suspensions, rheology, oist, kaust]
   year: 2026
   type: preprint
@@ -90,7 +90,7 @@
   open_access: true
 
 - id: kobayashi2026etfs
-  image: ""
+  image: "/assets/img/publications/kobayashi2026etfs.jpg"
   tags: [flow-birefringence, rheology, tuat, oist]
   year: 2026
   type: journal
@@ -115,7 +115,7 @@
 ################### 2025 ###################
 
 - id: igarashi2025piced
-  image: ""
+  image: "/assets/img/publications/igarashi2025piced.jpg"
   tags: [photoelasticity, tuat, oist]
   year: 2025
   type: preprint
