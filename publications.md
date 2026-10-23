@@ -11,7 +11,7 @@ permalink: /publications/
 <div data-publications>
   <div class="publication-filter" data-publication-controls hidden>
     <h2>Filter publications</h2>
-    <p id="publication-filter-help">Select one or more tags. Results must match every selected tag, including institutions.</p>
+    <!-- <p id="publication-filter-help">Select one or more tags. Results must match every selected tag, including institutions.</p> -->
     <div class="publication-filter__buttons">
       <button type="button" data-filter-all aria-pressed="true" aria-controls="publication-results">All</button>
     </div>
