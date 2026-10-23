@@ -1,16 +1,28 @@
 <section data-publication-section>
   <h2 class="publication-gallery__section-title">{{ include.heading | escape }}</h2>
   {% assign entries = include.entries | sort: "year" | reverse %}
-  {% assign current_year = "" %}
-  {% for entry in entries %}
-    {% if entry.year != current_year %}
-      {% unless forloop.first %}</ul></div>{% endunless %}
-      <div data-publication-year>
-        <h3 class="publication-gallery__year">{{ entry.year }}</h3>
-        <ul class="publication-gallery__list">
-      {% assign current_year = entry.year %}
+  {% assign year_groups = entries | group_by: "year" %}
+  {% for year_group in year_groups %}
+  <div data-publication-year>
+    <h3 class="publication-gallery__year">{{ year_group.name }}</h3>
+    <ul class="publication-gallery__list">
+    {% if include.sort_by_month %}
+      {% for month in (1..12) reversed %}
+        {% assign month_entries = year_group.items | where: "month", month %}
+        {% for entry in month_entries %}
+          {% include publication-card.html publication=entry %}
+        {% endfor %}
+      {% endfor %}
+      {% assign undated_entries = year_group.items | where_exp: "entry", "entry.month == nil" %}
+      {% for entry in undated_entries %}
+        {% include publication-card.html publication=entry %}
+      {% endfor %}
+    {% else %}
+      {% for entry in year_group.items %}
+        {% include publication-card.html publication=entry %}
+      {% endfor %}
     {% endif %}
-    {% include publication-card.html publication=entry %}
-    {% if forloop.last %}</ul></div>{% endif %}
+    </ul>
+  </div>
   {% endfor %}
 </section>

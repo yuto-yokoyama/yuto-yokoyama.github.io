@@ -4,7 +4,7 @@
   image: "/assets/img/publications/worby2026birefringence.jpg"
   tags: [flow-birefringence, suspensions, rheology, tuat]
   year: 2026
-  month: 09
+  month: 9
   type: preprint
   authors:
     - William Kai Alexander Worby
@@ -26,6 +26,7 @@
   image: "/assets/img/publications/kikuchi2026interfacial.jpg"
   tags: [jet-dynamics, soft-materials, oist, tuat]
   year: 2026
+  month: 8
   type: preprint
   authors:
     - Ishin Kikuchi
@@ -48,6 +49,7 @@
   image: "/assets/img/publications/kawaguchi2026heleshaw.jpg"
   tags: [flow-birefringence, rheology, oist, tuat]
   year: 2026
+  month: 6
   type: journal
   authors:
     - Misa Kawaguchi
@@ -71,6 +73,7 @@
   image: "/assets/img/publications/yokoyama2026flowbirefringence.jpg"
   tags: [flow-birefringence, suspensions, rheology, oist, kaust]
   year: 2026
+  month: 4
   type: preprint
   authors:
     - Yuto Yokoyama
@@ -94,6 +97,7 @@
   image: "/assets/img/publications/yokoyama2026naturecomm.jpg"
   tags: [droplet-impact, photoelasticity, soft-materials, tuat, oist]
   year: 2026
+  month: 1
   type: journal
   authors:
     - Yuto Yokoyama
@@ -115,6 +119,7 @@
   image: "/assets/img/publications/kobayashi2026etfs.jpg"
   tags: [flow-birefringence, rheology, tuat, oist]
   year: 2026
+  month: 4
   type: journal
   authors:
     - Miu Kobayashi
@@ -140,6 +145,7 @@
   image: "/assets/img/publications/igarashi2025piced.jpg"
   tags: [photoelasticity, tuat, oist]
   year: 2025
+  month: 4
   type: preprint
   authors:
     - Daichi Igarashi
@@ -165,6 +171,7 @@
   image: "/assets/img/publications/worby2024scirep.jpg"
   tags: [flow-birefringence, rheology, tuat, oist]
   year: 2024
+  month: 9
   type: journal
   authors:
     - William Kai Alexander Worby
@@ -187,6 +194,7 @@
   image: "/assets/img/publications/nakamine2024cellulose.jpg"
   tags: [flow-birefringence, suspensions, rheology, tuat]
   year: 2024
+  month: 8
   type: journal
   authors:
     - Kento Nakamine
@@ -209,6 +217,7 @@
   image: "/assets/img/publications/yokoyama2024optlaseng.jpg"
   tags: [photoelasticity, soft-materials, tuat]
   year: 2024
+  month: 7
   type: journal
   authors:
     - Yuto Yokoyama
@@ -229,6 +238,7 @@
   image: "/assets/img/publications/igarashi2024pof042005.jpg"
   tags: [jet-dynamics, soft-materials, tuat]
   year: 2024
+  month: 4
   type: journal
   authors:
     - Daichi Igarashi
@@ -252,6 +262,7 @@
   image: "/assets/img/publications/igarashi2024pof013317.jpg"
   tags: [jet-dynamics, tuat, tuat]
   year: 2024
+  month: 1
   type: journal
   authors:
     - Daichi Igarashi
@@ -276,6 +287,7 @@
   image: "/assets/img/publications/mitchell2023jmps.jpg"
   tags: [photoelasticity, soft-materials, tuat]
   year: 2023
+  month: 2
   type: journal
   authors:
     - Benjamin Mitchell
@@ -299,6 +311,7 @@
   image: "/assets/img/publications/yokoyama2023optlaseng.jpg"
   tags: [photoelasticity, soft-materials, tuat]
   year: 2023
+  month: 2
   type: journal
   authors:
     - Yuto Yokoyama
@@ -325,6 +338,7 @@
   image: "/assets/img/publications/yokoyama2022forsciint.jpg"
   tags: [droplet-impact, suspensions, rheology, tuat]
   year: 2022
+  month: 2
   type: journal
   authors:
     - Yuto Yokoyama
@@ -348,6 +362,7 @@
   image: "/assets/img/publications/francogomez2021expfluids.jpg"
   tags: [jet-dynamics, rheology, tuat]
   year: 2021
+  month: 2
   type: journal
   authors:
     - Andres Franco-Gomez

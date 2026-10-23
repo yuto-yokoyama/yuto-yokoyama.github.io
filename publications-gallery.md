@@ -38,7 +38,7 @@ permalink: /publications/
       <p>No publications match all selected tags.</p>
       <button type="button" data-clear-filters>Clear filters</button>
     </div>
-    {% include publication-section.html entries=site.data.publications heading="Papers" %}
+    {% include publication-section.html entries=site.data.publications heading="Papers" sort_by_month=true %}
     {% include publication-section.html entries=site.data.japanese_articles heading="Japanese Articles" %}
     {% include publication-section.html entries=site.data.books heading="Books" %}
   </div>
