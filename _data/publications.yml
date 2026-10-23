@@ -1,6 +1,7 @@
 ################### 2026 ###################
 
 - id: kikuchi2026interfacial
+  image: ""
   tags: [jet-dynamics, soft-materials, oist, tuat]
   year: 2026
   type: preprint
@@ -22,6 +23,7 @@
   open_access: true
   
 - id: kawaguchi2026heleshaw
+  image: ""
   tags: [flow-birefringence, rheology, oist, tuat]
   year: 2026
   type: journal
@@ -44,6 +46,7 @@
   open_access: true
 
 - id: yokoyama2026flowbirefringence
+  image: ""
   tags: [flow-birefringence, suspensions, rheology, oist, kaust]
   year: 2026
   type: preprint
@@ -66,6 +69,7 @@
   open_access: true
 
 - id: yokoyama2026naturecomm
+  image: "/assets/img/publications/yokoyama2026naturecomm.jpg"
   tags: [droplet-impact, photoelasticity, soft-materials, tuat, oist]
   year: 2026
   type: journal
@@ -86,6 +90,7 @@
   open_access: true
 
 - id: kobayashi2026etfs
+  image: ""
   tags: [flow-birefringence, rheology, tuat, oist]
   year: 2026
   type: journal
@@ -110,6 +115,7 @@
 ################### 2025 ###################
 
 - id: igarashi2025piced
+  image: ""
   tags: [photoelasticity, tuat, oist]
   year: 2025
   type: preprint
@@ -134,6 +140,7 @@
 ################### 2024 ###################
 
 - id: worby2024scirep
+  image: ""
   tags: [flow-birefringence, rheology, tuat, oist]
   year: 2024
   type: journal
@@ -155,6 +162,7 @@
   open_access: true
 
 - id: nakamine2024cellulose
+  image: ""
   tags: [flow-birefringence, suspensions, rheology, tuat]
   year: 2024
   type: journal
@@ -176,6 +184,7 @@
   open_access: true
 
 - id: yokoyama2024optlaseng
+  image: ""
   tags: [photoelasticity, soft-materials, tuat]
   year: 2024
   type: journal
@@ -195,6 +204,7 @@
   open_access: true
 
 - id: igarashi2024pof042005
+  image: ""
   tags: [jet-dynamics, soft-materials, tuat]
   year: 2024
   type: journal
@@ -217,6 +227,7 @@
   open_access: true
 
 - id: igarashi2024pof013317
+  image: ""
   tags: [jet-dynamics, tuat, tuat]
   year: 2024
   type: journal
@@ -240,6 +251,7 @@
 ################### 2023 ###################
 
 - id: mitchell2023jmps
+  image: ""
   tags: [photoelasticity, soft-materials, tuat]
   year: 2023
   type: journal
@@ -262,6 +274,7 @@
   open_access: false
 
 - id: yokoyama2023optlaseng
+  image: ""
   tags: [photoelasticity, soft-materials, tuat]
   year: 2023
   type: journal
@@ -287,6 +300,7 @@
 ################### 2022 ###################
 
 - id: yokoyama2022forsciint
+  image: ""
   tags: [droplet-impact, suspensions, rheology, tuat]
   year: 2022
   type: journal
@@ -309,6 +323,7 @@
 ################### 2021 ###################
 
 - id: francogomez2021expfluids
+  image: ""
   tags: [jet-dynamics, rheology, tuat]
   year: 2021
   type: journal
