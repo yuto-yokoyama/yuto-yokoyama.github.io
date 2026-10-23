@@ -51,6 +51,10 @@
   cursor: pointer;
 }
 
+.publication-filter button {
+  border-radius: 999px;
+}
+
 .publication-filter button:hover,
 .publication-empty button:hover {
   border-color: var(--minima-text-color);
