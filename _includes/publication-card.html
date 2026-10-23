@@ -40,8 +40,8 @@
     </ul>
     {% endif %}
     <p class="publication-card__links">
-      {% if publication.url and publication.url != "" %}<a href="{{ publication.url | escape }}">Paper</a>{% endif %}
-      {% if publication.doi and publication.doi != "" %}<a href="https://doi.org/{{ publication.doi | escape }}">DOI</a>{% endif %}
+      <!-- {% if publication.url and publication.url != "" %}<a href="{{ publication.url | escape }}">Paper</a>{% endif %} -->
+      <!-- {% if publication.doi and publication.doi != "" %}<a href="https://doi.org/{{ publication.doi | escape }}">DOI</a>{% endif %} -->
       {% if publication.status and publication.status != "" %}<span>{{ publication.status | escape }}</span>{% endif %}
       {% if publication.open_access %}<span>Open Access</span>{% endif %}
     </p>
