@@ -27,7 +27,7 @@
   gap: var(--publication-image-gap);
   margin: 0;
   padding: var(--space-5) 0;
-  border-bottom: 1px solid var(--minima-border-color-01);
+  /* border-bottom: 1px solid var(--minima-border-color-01); */
 }
 
 .publication-thumbnail {

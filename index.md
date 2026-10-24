@@ -29,9 +29,9 @@ title: Home
 
 <br>
 ## Links
-- [Google Scholar](https://scholar.google.com/citations?user=DpeS1JAAAAAJ&hl=en)
-- [ResearchGate](https://www.researchgate.net/profile/Yuto-Yokoyama)
-- [ORCiD](https://orcid.org/0000-0001-5205-5984)
-- [researchmap](https://researchmap.jp/YutoYokoyama)
+<!-- - [Google Scholar](https://scholar.google.com/citations?user=DpeS1JAAAAAJ&hl=en) -->
+<!-- - [ResearchGate](https://www.researchgate.net/profile/Yuto-Yokoyama) -->
+<!-- - [ORCiD](https://orcid.org/0000-0001-5205-5984) -->
+<!-- - [researchmap](https://researchmap.jp/YutoYokoyama) -->
 - [Micro/Bio/Nanofluidics Unit at OIST](https://www.oist.jp/research/research-units/mbnu)
 - [Yoshiyuki Tagawa's Lab at TUAT](https://sites.google.com/view/tagawalabjp)
