@@ -1,0 +1,10 @@
+<footer class="site-footer">
+  <div class="wrapper site-footer__inner">
+    <p>© {{ site.time | date: '%Y' }} {{ site.title | escape }}</p>
+    <ul class="site-footer__links" aria-label="Academic profiles">
+      {% for profile in site.data.site_links %}
+      <li><a href="{{ profile.url | escape }}">{{ profile.label | escape }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</footer>

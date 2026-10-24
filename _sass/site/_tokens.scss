@@ -1,0 +1,81 @@
+:root {
+  color-scheme: light;
+  --color-background: #FFFFFF;
+  --color-text: #20252B;
+  --color-secondary: #626B73;
+  --color-accent: #36566D;
+  --color-border: #E5E8EB;
+  --color-subtle: #F5F6F7;
+  --color-control-border: var(--color-secondary);
+  --color-backdrop: rgba(0, 0, 0, .75);
+  --font-family-body: "IBM Plex Sans", sans-serif;
+  --font-size-body: 1rem;
+  --font-size-h1: 2.5rem;
+  --font-size-h2: 1.625rem;
+  --font-size-h3: 1.25rem;
+  --font-size-navigation: .9375rem;
+  --font-size-metadata: .875rem;
+  --font-size-small: .8125rem;
+  --font-weight-body: 400;
+  --font-weight-heading: 500;
+  --font-weight-strong: 600;
+  --line-height-body: 1.65;
+  --line-height-heading: 1.25;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --space-8: 64px;
+  --section-spacing: var(--space-8);
+  --container-width: 1100px;
+  --page-gutter: var(--space-6);
+  --radius: 6px;
+  --radius-pill: 999px;
+  --control-min-height: 44px;
+  --focus-ring: 2px solid var(--color-accent);
+  --focus-offset: 3px;
+
+  // Keep Minima and the existing Publications components on the same palette.
+  --minima-background-color: var(--color-background);
+  --minima-text-color: var(--color-text);
+  --minima-heading-color: var(--color-text);
+  --minima-site-title-color: var(--color-text);
+  --minima-brand-color: var(--color-secondary);
+  --minima-brand-color-light: var(--color-border);
+  --minima-brand-color-dimmed: var(--color-secondary);
+  --minima-brand-color-dark: var(--color-text);
+  --minima-link-base-color: var(--color-accent);
+  --minima-link-visited-color: var(--color-accent);
+  --minima-link-hover-color: var(--color-text);
+  --minima-border-color-01: var(--color-border);
+  --minima-border-color-02: var(--color-control-border);
+  --minima-border-color-03: var(--color-control-border);
+  --minima-code-background-color: var(--color-subtle);
+  --minima-table-text-color: var(--color-text);
+  --minima-table-zebra-color: var(--color-subtle);
+  --minima-table-header-bg-color: var(--color-subtle);
+  --minima-table-header-border: var(--color-border);
+  --minima-table-border-color: var(--color-border);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --color-background: #171A1D;
+    --color-text: #E6E9EC;
+    --color-secondary: #A7AFB7;
+    --color-accent: #9DBCD1;
+    --color-border: #343B42;
+    --color-subtle: #22282E;
+  }
+}
+
+@media (max-width: 600px) {
+  :root {
+    --page-gutter: 20px;
+    --font-size-h1: 2.25rem;
+  }
+}
