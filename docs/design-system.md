@@ -1,9 +1,9 @@
 # Shared design system
 
 Academic Minimalism: content first, restrained typography, no shadows or
-decorative cards. This change supplies the common foundation; it does not
-redesign individual page layouts or edit their content, publication data, URLs,
-images, ordering, or existing Publications JavaScript.
+decorative cards. This change supplies the common foundation and a compact Home profile/About
+introduction. Other page content, publication data, URLs, images, ordering, and
+existing Publications JavaScript are preserved.
 
 ## Integration with Minima
 
@@ -33,6 +33,7 @@ SEO and the standard page/home/post layouts remain supplied by Minima.
 | `_includes/footer.html`, `_data/site_links.yml` | Minimal copyright and existing Google Scholar/ORCID profiles |
 | `_layouts/base.html` | Standard Minima layout with the skip-link target |
 | `assets/css/site-fonts.css`, `assets/fonts/inter/` | Self-hosted Inter, license and source/hash record |
+| `assets/css/home.css` | Home-only profile/portrait and About layout, inheriting shared tokens |
 | `assets/js/site-navigation.js` | Mobile expansion, Escape and breakpoint/focus handling; no library |
 | `assets/css/publication-filter.css`, `assets/css/publication-gallery.css` | Existing page components now consume shared tokens; thumbnail geometry stays local |
 
@@ -88,9 +89,12 @@ Preserve the current permalink when updating existing pages.
 Existing page-specific styles belong in `assets/css/` and should use the shared
 tokens. Publications keeps its 160 × 120 px image frames, 20 px gap, responsive
 list structure, filters, DOI/publisher links and lightbox. Only its presentation
-values were integrated with the design system. Home's inline flex layout and
-CV's inline grid receive narrowly scoped mobile reflow; their source content
-and desktop structure are unchanged.
+values were integrated with the design system. Home uses `layout: page`, matching the standard page heading and divider. Its
+profile places the name and affiliation beside the existing portrait (220 px
+on desktop, 112/96 px on mobile), followed by the requested About text. About
+stacks vertically on mobile. Research Interests is removed; the News and Links
+sections remain intact. Home-only styling lives in `assets/css/home.css`; CV's
+inline grid retains its narrow-screen reflow without content edits.
 
 Add future profile links to `_data/site_links.yml` using verified existing
 accounts. The current Google Scholar and ORCID URLs are copied from Home.
@@ -98,10 +102,11 @@ accounts. The current Google Scholar and ORCID URLs are copied from Home.
 ## Validation and limits
 
 - Built with Jekyll/remote Minima and GitHub Pages' default-layout plugin.
-- Compared rendered main content, existing links, images/alt text and publication
-  ordering before/after on all six generated pages: Home, Publications, archived
-  Publications, Presentations, News and CV. Their source Markdown, bibliography
-  data and research images are unchanged.
+- Compared unchanged main content, links, images and publication ordering on
+  Publications, archived Publications, Presentations, News and CV. Home has the
+  requested profile/About introduction and removal of Research Interests; its
+  News and Links content/URLs remain unchanged. Bibliography data and source
+  image files are unchanged.
 - Chromium checks cover both themes at 1440, 768, 390 and 320 px widths;
   200% text-size emulation at 320 px; current-page navigation; shared footer;
   keyboard menu/Tab/Escape, skip link and visible focus; no-JavaScript navigation;

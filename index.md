@@ -1,37 +1,24 @@
 ---
+layout: page
 title: Home
 ---
 
-# **Yuto Yokoyama (横山 裕杜)**
-### Postdoctoral Fellow, King Abludlah University of Science and Tehnology (KAUST)
+<link rel="stylesheet" href="{{ '/assets/css/home.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 
-<div style="display: flex; align-items: flex-start; gap: 24px; flex-wrap: wrap;">
-
-  <div style="flex: 1; min-width: 280px;">
-    <p>
-      I am a postdoctoral fellow in the Splash Lab, led by Prof. Tadd Truscott, at King Abdullah University of Science and Technology (KAUST), Saudi Arabia. From April 2024 to January 2026, I was a JSPS Research Fellow in the Micro/Bio/Nanofluidics Unit, led by Prof. Amy Shen, at the Okinawa Institute of Science and Technology (OIST). I received my Ph.D. in Mechanical Systems Engineering from Tokyo University of Agriculture and Technology (TUAT) in March 2024 under the supervision of Prof. Yoshiyuki Tagawa.
-    </p>
-    
-    <p>
-      My research focuses on multiphase flows, particularly droplet dynamics, as well as soft materials and their birefringence.
-    </p>
+<section class="home-profile" aria-labelledby="home-profile-name">
+  <div class="home-profile__identity">
+    <h2 class="home-profile__name" id="home-profile-name">Yuto Yokoyama</h2>
+    <p class="home-profile__name-ja" lang="ja">横山 裕杜</p>
+    <p class="home-profile__position">Postdoctoral Researcher @ KAUST</p>
   </div>
+  <img class="home-profile__portrait" src="{{ '/assets/img/photo_yuto.JPG' | relative_url }}" width="220" height="220" alt="Portrait of Yuto Yokoyama" decoding="async">
+</section>
 
-  <div style="flex: 0 0 300px;">
-    <img src="/assets/img/photo_yuto.JPG" alt="Profile photo" style="width: 100%; max-width: 300px; height: auto; border: none;" />
-  </div>
+<section class="home-about" aria-labelledby="home-about-title">
+  <h2 id="home-about-title">About</h2>
+  <p>I am a postdoctoral researcher at King Abdullah University of Science and Technology (KAUST). My research focuses on experimental fluid dynamics, complex fluids, and optical measurement methods.</p>
+</section>
 
-</div>
-
-<br>
-## Research Interests
-- Multiphase flow
-- Droplet
-- Non-Newtonian fluids
-- Suspension
-- Biomaterial
-
-<br>
 ## News
 {% assign items = site.data.news | sort: "date" | reverse %}
 {% for n in items limit:5 %}

@@ -100,7 +100,7 @@ figcaption {
 }
 
 @media (max-width: 600px) {
-  // Allow existing inline Home/CV layouts to reflow without changing content.
+  // Allow existing inline layouts, including CV, to reflow without content edits.
   .page-content [style*="display: flex"] > div {
     flex-basis: 100% !important;
     min-width: 0 !important;
