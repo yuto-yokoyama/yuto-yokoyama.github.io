@@ -31,7 +31,7 @@
   --space-8: 64px;
   --section-spacing: var(--space-8);
   --container-width: 1100px;
-  --page-gutter: 200px;
+  --page-gutter: clamp(var(--space-6), calc(50vw - 350px), 200px);
   --radius: 6px;
   --radius-pill: 999px;
   --control-min-height: 44px;

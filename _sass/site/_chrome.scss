@@ -13,6 +13,11 @@
   padding-block: var(--space-4);
 }
 
+.site-header__inner::after,
+.site-footer__inner::after {
+  display: none;
+}
+
 .site-title {
   display: inline-flex;
   align-items: center;
