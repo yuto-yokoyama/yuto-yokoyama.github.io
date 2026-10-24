@@ -32,7 +32,7 @@ SEO and the standard page/home/post layouts remain supplied by Minima.
 | `_includes/header.html`, `_includes/nav-items.html` | Existing configured page links, native menu button and `aria-current` |
 | `_includes/footer.html`, `_data/site_links.yml` | Minimal copyright and existing Google Scholar/ORCID profiles |
 | `_layouts/base.html` | Standard Minima layout with the skip-link target |
-| `assets/css/site-fonts.css`, `assets/fonts/ibm-plex-sans/` | Self-hosted IBM Plex Sans, license and source/hash record |
+| `assets/css/site-fonts.css`, `assets/fonts/inter/` | Self-hosted Inter, license and source/hash record |
 | `assets/js/site-navigation.js` | Mobile expansion, Escape and breakpoint/focus handling; no library |
 | `assets/css/publication-filter.css`, `assets/css/publication-gallery.css` | Existing page components now consume shared tokens; thumbnail geometry stays local |
 
@@ -59,12 +59,12 @@ The Minima Sass compatibility values are not additional runtime design controls;
 effective styles are overridden by the CSS tokens. Keep them sensible if
 upstream Minima adds new components that rely on its compiled arithmetic.
 
-IBM Plex Sans is self-hosted from the official IBM repository under SIL OFL 1.1.
-The four WOFF2 files total about 258 KiB. Only the regular face is preloaded;
+Inter is self-hosted from the official Inter repository under SIL OFL 1.1.
+The four WOFF2 files total about 447 KiB. Only the regular face is preloaded;
 400/500/600 and italic 400 use `font-display: swap` and load as needed. There
 are no Google Fonts or icon-CDN requests. Sans-serif fallback remains available
 if downloads fail. Japanese characters use the device's sans-serif font because
-these IBM Plex Sans files do not contain Japanese glyphs. To change fonts,
+these Inter files do not contain Japanese glyphs. To change fonts,
 update the family token and the font-face declarations/assets/license together.
 
 ## Adding a page
@@ -106,7 +106,7 @@ accounts. The current Google Scholar and ORCID URLs are copied from Home.
   200% text-size emulation at 320 px; current-page navigation; shared footer;
   keyboard menu/Tab/Escape, skip link and visible focus; no-JavaScript navigation;
   and blocked-font fallback. The actual rendered Latin header font was verified
-  as the self-hosted IBM Plex Sans.
+  as the self-hosted Inter.
 - Palette contrast was calculated against both backgrounds: primary/secondary
   text and links meet WCAG AA 4.5:1; interactive borders exceed 3:1. Placeholder
   text also meets 4.5:1 against its subtle background. This is not a full manual
