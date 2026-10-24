@@ -1,0 +1,124 @@
+body {
+  font-family: var(--font-family-body);
+  font-size: var(--font-size-body);
+  font-weight: var(--font-weight-body);
+  line-height: var(--line-height-body);
+  letter-spacing: normal;
+}
+
+.wrapper {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: var(--container-width);
+  padding-inline: var(--page-gutter);
+}
+
+.page-content {
+  padding-block: var(--section-spacing);
+}
+
+.post-header {
+  margin-bottom: var(--space-7);
+  padding-bottom: var(--space-5);
+}
+
+.post-title,
+.page-content h1 {
+  font-size: var(--font-size-h1);
+  font-weight: var(--font-weight-heading);
+  line-height: var(--line-height-heading);
+  letter-spacing: normal;
+}
+
+.page-content h2 {
+  font-size: var(--font-size-h2);
+}
+
+.page-content h3 {
+  font-size: var(--font-size-h3);
+}
+
+.page-content h2,
+.page-content h3,
+.page-content h4,
+.page-content h5,
+.page-content h6 {
+  font-weight: var(--font-weight-heading);
+  line-height: var(--line-height-heading);
+  letter-spacing: normal;
+}
+
+.post-content > h1:not(:first-child),
+.post-content > h2:not(:first-child),
+.home > h2 {
+  margin-top: var(--section-spacing);
+}
+
+.post-content > h3,
+.home > h3 {
+  margin-top: var(--space-6);
+}
+
+.page-content {
+  overflow-wrap: anywhere;
+}
+
+strong,
+b {
+  font-weight: var(--font-weight-strong);
+}
+
+.page-content h1 strong {
+  font-weight: inherit;
+}
+
+a {
+  text-underline-offset: .18em;
+  text-decoration-thickness: 1px;
+}
+
+.page-content a:not(.publication-thumbnail__zoom) {
+  text-decoration: underline;
+}
+
+:where(a, button, input, select, textarea, summary):focus-visible {
+  outline: var(--focus-ring);
+  outline-offset: var(--focus-offset);
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+.post-meta,
+figcaption {
+  color: var(--color-secondary);
+  font-size: var(--font-size-metadata);
+}
+
+@media (max-width: 600px) {
+  // Allow existing inline layouts, including CV, to reflow without content edits.
+  .page-content [style*="display: flex"] > div {
+    flex-basis: 100% !important;
+    min-width: 0 !important;
+    max-width: 100%;
+  }
+
+  .page-content [style*="grid-template-columns"] {
+    grid-template-columns: minmax(0, 1fr) !important;
+    row-gap: var(--space-2) !important;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation: none !important;
+    transition: none !important;
+  }
+}

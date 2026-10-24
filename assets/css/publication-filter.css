@@ -1,5 +1,5 @@
 .publication-filter {
-  margin: 0 0 2rem;
+  margin: 0 0 var(--space-6);
   padding: 0;
   border: 0;
   background: transparent;
@@ -8,42 +8,42 @@
 }
 
 .publication-filter h2 {
-  margin: 0 0 .5rem;
+  margin: 0 0 var(--space-2);
   font-size: 1em;
-  font-weight: 600;
+  font-weight: var(--font-weight-heading);
 }
 
 .publication-filter p {
-  margin: 0 0 1rem;
+  margin: 0 0 var(--space-4);
   line-height: 1.5;
 }
 
 .publication-filter fieldset {
   min-width: 0;
-  margin: 1rem 0 0;
+  margin: var(--space-4) 0 0;
   padding: 0;
   border: 0;
 }
 
 .publication-filter legend {
-  margin-bottom: .5rem;
+  margin-bottom: var(--space-2);
   padding: 0;
   font-size: 1em;
-  font-weight: 600;
+  font-weight: var(--font-weight-heading);
 }
 
 .publication-filter__buttons {
   display: flex;
   flex-wrap: wrap;
-  gap: .5rem;
+  gap: var(--space-2);
 }
 
 .publication-filter button,
 .publication-empty button {
-  min-height: 44px;
-  padding: .5rem .75rem;
+  min-height: var(--control-min-height);
+  padding: var(--space-2) var(--space-3);
   border: 1px solid var(--minima-border-color-03);
-  border-radius: 4px;
+  border-radius: var(--radius);
   background: var(--minima-background-color);
   color: var(--minima-text-color);
   font: inherit;
@@ -52,7 +52,7 @@
 }
 
 .publication-filter button {
-  border-radius: 999px;
+  border-radius: var(--radius-pill);
 }
 
 .publication-filter button:hover,
@@ -69,23 +69,23 @@
 
 .publication-filter button:focus-visible,
 .publication-empty button:focus-visible {
-  outline: 3px solid var(--minima-link-base-color);
-  outline-offset: 3px;
+  outline: var(--focus-ring);
+  outline-offset: var(--focus-offset);
 }
 
 .publication-filter .publication-filter__count {
-  margin: 1rem 0 0;
-  font-weight: 600;
+  margin: var(--space-4) 0 0;
+  font-weight: var(--font-weight-heading);
 }
 
 .publication-filter .publication-filter__note {
-  margin: .5rem 0 0;
+  margin: var(--space-2) 0 0;
   font-size: 1em;
   color: var(--minima-brand-color-dimmed);
 }
 
 .publication-empty {
-  margin: 0 0 2rem;
+  margin: 0 0 var(--space-6);
   font: inherit;
 }
 
