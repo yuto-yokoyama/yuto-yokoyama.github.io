@@ -95,7 +95,7 @@
 
 - id: yokoyama2026naturecomm
   image: "/assets/img/publications/yokoyama2026naturecomm.jpg"
-  tags: [droplet-impact, photoelasticity, soft-materials, tuat, oist]
+  tags: [droplets, photoelasticity, soft-materials, tuat, oist]
   year: 2026
   month: 1
   type: journal
@@ -336,7 +336,7 @@
 
 - id: yokoyama2022forsciint
   image: "/assets/img/publications/yokoyama2022forsciint.jpg"
-  tags: [droplet-impact, suspensions, rheology, tuat]
+  tags: [droplets, suspensions, rheology, tuat]
   year: 2022
   month: 2
   type: journal
