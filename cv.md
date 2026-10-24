@@ -9,12 +9,12 @@ permalink: /cv/
 
 <div><strong>2026 Feb – Present</strong></div>
 <div>
-  Postdoctoral Fellow, Splash Lab, KAUST
+  Postdoctoral Fellow, Splash Lab, King Abdullah University of Science and Technology (KAUST)
 </div>
 
 <div><strong>2024 Apr – 2026 Jan</strong></div>
 <div>
-  Research Fellow of JSPS Research Fellowships for Young Scientists (PD), OIST<br>
+  Research Fellow of JSPS Research Fellowships for Young Scientists (PD), Okinawa Institute of Science and Technology (OIST) <br>
   日本学術振興会特別研究員 (PD)
 </div>
 
@@ -25,7 +25,7 @@ permalink: /cv/
 
 <div><strong>2022 Apr – 2024 Mar</strong></div>
 <div>
-  Research Fellow of JSPS Research Fellowships for Young Scientists (DC2), TUAT<br>
+  Research Fellow of JSPS Research Fellowships for Young Scientists (DC2), Tokyo University of Agriculture and Technology (TUAT)<br>
   日本学術振興会特別研究員 (DC2)
 </div>
 
@@ -62,12 +62,12 @@ permalink: /cv/
 
 <div><strong>2024 Mar</strong></div>
 <div>
-  Ph.D., Tokyo University of Agriculture and Technology, Tokyo, Japan
+  Ph.D., Tokyo University of Agriculture and Technology (TUAT), Tokyo, Japan
 </div>
 
 <div><strong>2021 Mar</strong></div>
 <div>
-  M.Eng., Tokyo University of Agriculture and Technology, Tokyo, Japan
+  M.Eng., Tokyo University of Agriculture and Technology (TUAT), Tokyo, Japan
 </div>
 
 <div><strong>2019 Mar</strong></div>
