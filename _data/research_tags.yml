@@ -1,5 +1,5 @@
-- id: droplet-impact
-  label: Droplet Impact
+- id: droplets
+  label: Droplets
 - id: jet-dynamics
   label: Liquid Jet
 - id: photoelasticity
