@@ -16,7 +16,9 @@ Minima's official `custom-variables`, `custom-styles` and `custom-head` hooks
 load the design system. Local header/footer/navigation includes replace only
 shared chrome. The shared base layout retains the upstream head, content,
 footer and sub-footer includes, adding a focusable main landmark for the skip
-link. SEO and the standard page/home/post layouts remain supplied by Minima.
+link. The head include retains upstream SEO/feed/analytics hooks and versions
+the main stylesheet URL to avoid stale cached design tokens after deployment.
+SEO and the standard page/home/post layouts remain supplied by Minima.
 
 | Files | Responsibility |
 | --- | --- |
@@ -26,6 +28,7 @@ link. SEO and the standard page/home/post layouts remain supplied by Minima.
 | `_sass/minima/custom-styles.scss` | Official hook importing the three shared partials |
 | `_sass/minima/custom-variables.scss` | Sass compatibility defaults required by Minima's arithmetic; body font delegates to the CSS token |
 | `_includes/custom-head.html` | Regular-font preload, font-face stylesheet and small navigation script |
+| `_includes/head.html` | Upstream metadata/hooks with a versioned main stylesheet URL |
 | `_includes/header.html`, `_includes/nav-items.html` | Existing configured page links, native menu button and `aria-current` |
 | `_includes/footer.html`, `_data/site_links.yml` | Minimal copyright and existing Google Scholar/ORCID profiles |
 | `_layouts/base.html` | Standard Minima layout with the skip-link target |
