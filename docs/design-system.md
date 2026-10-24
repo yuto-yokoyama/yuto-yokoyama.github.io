@@ -90,11 +90,21 @@ Existing page-specific styles belong in `assets/css/` and should use the shared
 tokens. Publications keeps its 160 × 120 px image frames, 20 px gap, responsive
 list structure, filters, DOI/publisher links and lightbox. Only its presentation
 values were integrated with the design system. Home uses `layout: page`, matching the standard page heading and divider. Its
-profile places the name and affiliation beside the existing portrait (220 px
+profile places the name and affiliation beside the existing portrait (224 px
 on desktop, 112/96 px on mobile), followed by the requested About text. About
 stacks vertically on mobile. Research Interests is removed; the News and Links
 sections remain intact. Home-only styling lives in `assets/css/home.css`; CV's
 inline grid retains its narrow-screen reflow without content edits.
+
+Home's fine adjustments follow HIG's clarity, consistency and accessibility
+principles: align related content, use the shared spacing rhythm, keep related
+`@ KAUST` text together, retain a subordinate affiliation style, and reduce the
+portrait on narrow screens so text remains readable. Component dimensions are
+local tokens (224/112/96 px portraits and a 176 px About label column). These
+values are implementation choices, not sizes mandated by Apple HIG. Web controls
+retain 44 CSS px minimum targets, visible focus and WCAG contrast checks; CSS px
+are not being equated to native iOS points. The reference is
+[Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines).
 
 Add future profile links to `_data/site_links.yml` using verified existing
 accounts. The current Google Scholar and ORCID URLs are copied from Home.

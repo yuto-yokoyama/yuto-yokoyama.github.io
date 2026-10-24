@@ -9,9 +9,9 @@ title: Home
   <div class="home-profile__identity">
     <h2 class="home-profile__name" id="home-profile-name">Yuto Yokoyama</h2>
     <p class="home-profile__name-ja" lang="ja">横山 裕杜</p>
-    <p class="home-profile__position">Postdoctoral Researcher @ KAUST</p>
+    <p class="home-profile__position">Postdoctoral Researcher <span class="home-profile__affiliation">@ KAUST</span></p>
   </div>
-  <img class="home-profile__portrait" src="{{ '/assets/img/photo_yuto.JPG' | relative_url }}" width="220" height="220" alt="Portrait of Yuto Yokoyama" decoding="async">
+  <img class="home-profile__portrait" src="{{ '/assets/img/photo_yuto.JPG' | relative_url }}" width="224" height="224" alt="Portrait of Yuto Yokoyama" decoding="async">
 </section>
 
 <section class="home-about" aria-labelledby="home-about-title">
