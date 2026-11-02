@@ -202,9 +202,6 @@ permalink: /cv/
   日本混相流学会
 -->
 
-<!-- 
-<br>
+<!-- <br>
 # Contact
-- E-mail: yuto.yokoyama[at]kaust.edu.sa.jp
-- Address: Lab3 B750, 1919-1, Tancha, Onna-son, Kunigami-gun, Okinawa, 904-0497
--->
+- E-mail: yuto.yokoyama[at]kaust.edu.sa.jp -->
