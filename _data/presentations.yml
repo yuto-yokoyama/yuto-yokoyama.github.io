@@ -1,5 +1,44 @@
 # 2026
 
+- id: worby2026jsfm
+  year: 2026
+  category: domestic
+  type: conference
+  authors:
+    - William K. A. Worby
+    - 内藤正教
+    - 横山裕杜
+    - 川口美沙
+    - 田川義之
+  title: "レオオプティカル計測によるナノロッド懸濁液の複屈折応答と応力評価"
+  event: "日本流体力学会2026"
+  event_url: "https://www2.nagare.or.jp/nenkai2026/"
+  presentation_url: ""
+  location: "長野"
+  country: "Japan"
+  date: "2026-09-24"
+  presentation_type: "oral"
+  status: "Presented"
+
+- id: worby2026nctam
+  year: 2026
+  category: domestic
+  type: conference
+  authors:
+    - William K. A. Worby
+    - 横山裕杜
+    - 川口美沙
+    - 田川義之
+  title: "レオメトリックせん断流動下におけるCNC懸濁液の応力光学計測"
+  event: "第68回理論応用力学講演会"
+  event_url: "https://pub.confit.atlas.jp/ja/event/jsceam2026/content/nctam"
+  presentation_url: ""
+  location: "東京"
+  country: "Japan"
+  date: "2026-05-16"
+  presentation_type: "oral"
+  status: "Presented"
+
 - id: tagawa2026Lisbon
   year: 2026
   category: international
