@@ -1,5 +1,30 @@
 ################### 2026 ###################
 
+- id: yokoyama2026flowbirefringence
+  image: "/assets/img/publications/yokoyama2026flowbirefringence.jpg"
+  tags: [flow-birefringence, suspensions, rheology, oist]
+  year: 2026
+  month: 11
+  type: journal
+  authors:
+    - Yuto Yokoyama
+    - Vincenzo Calabrese
+    - Fabian Hillebrand
+    - Henry J. London
+    - Simon J. Haward
+    - Amy Q. Shen
+  title: "Flow-history-dependent orientational relaxation in dilute polydisperse colloidal rod suspensions"
+  journal: "Journal of Rheology"
+  volume: "70"
+  number: "6"
+  pages: "1481–1510"
+  doi: "10.1122/8.0001243"
+  url: "https://doi.org/10.1122/8.0001243"
+  status: "Published"
+  peer_reviewed: true
+  open_access: false
+
+
 - id: worby2026birefringence
   image: "/assets/img/publications/worby2026birefringence.jpg"
   tags: [flow-birefringence, suspensions, rheology, tuat]
@@ -21,6 +46,7 @@
   status: "Preprint"
   peer_reviewed: false
   open_access: true
+
 
 - id: kikuchi2026interfacial
   image: "/assets/img/publications/kikuchi2026interfacial.jpg"
@@ -44,6 +70,7 @@
   status: "Published"
   peer_reviewed: true
   open_access: true
+
   
 - id: kawaguchi2026heleshaw
   image: "/assets/img/publications/kawaguchi2026heleshaw.jpg"
@@ -69,29 +96,6 @@
   peer_reviewed: true
   open_access: true
 
-- id: yokoyama2026flowbirefringence
-  image: "/assets/img/publications/yokoyama2026flowbirefringence.jpg"
-  tags: [flow-birefringence, suspensions, rheology, oist, kaust]
-  year: 2026
-  month: 4
-  type: preprint
-  authors:
-    - Yuto Yokoyama
-    - Vincenzo Calabrese
-    - Fabian Hillebrand
-    - Henry J. London
-    - Simon J. Haward
-    - Amy Q. Shen
-  title: "Flow-history-dependent orientational relaxation in dilute polydisperse colloidal rod suspensions"
-  journal: "arXiv"
-  volume: ""
-  number: ""
-  pages: "2604.20678"
-  doi: "10.48550/arXiv.2604.20678"
-  url: "https://doi.org/10.48550/arXiv.2604.20678"
-  status: "Preprint"
-  peer_reviewed: false
-  open_access: true
 
 - id: yokoyama2026naturecomm
   image: "/assets/img/publications/yokoyama2026naturecomm.jpg"
@@ -114,6 +118,7 @@
   status: "Published"
   peer_reviewed: true
   open_access: true
+
 
 - id: kobayashi2026etfs
   image: "/assets/img/publications/kobayashi2026etfs.jpg"
@@ -139,7 +144,9 @@
   peer_reviewed: true
   open_access: true
 
+
 ################### 2025 ###################
+
 
 - id: igarashi2025piced
   image: "/assets/img/publications/igarashi2025piced.jpg"
