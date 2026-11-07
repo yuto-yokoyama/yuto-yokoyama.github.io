@@ -1,7 +1,7 @@
 ################### 2026 ###################
 
 - id: yokoyama2026flowbirefringence
-  image: "/assets/img/publications/yokoyama2026flowbirefringence.jpg"
+  image: "/assets/img/publications/yokoyama2026JoR.jpg"
   tags: [flow-birefringence, suspensions, rheology, oist]
   year: 2026
   month: 11
@@ -23,6 +23,8 @@
   status: "Published"
   peer_reviewed: true
   open_access: false
+  highlights:
+    - label: "Featured Article"
 
 
 - id: worby2026birefringence
