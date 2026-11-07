@@ -1,3 +1,17 @@
+- id: newpaper_Yokoyama2026_flowbirefringence_featured
+  type: paper
+  date: "2026-11-07"
+  text: 'Our paper "Flow-history-dependent orientational relaxation in dilute polydisperse colloidal rod suspensions" has been selected as a Featured Article.'
+  url: "https://doi.org/10.1122/8.0001243"
+  link_label: "[Link]"
+
+- id: newpaper_Yokoyama2026_flowbirefringence
+  type: paper
+  date: "2026-11-06"
+  text: 'A paper about flow-history-dependent relaxation in polydisperse colloidal rod suspension has been published in Journal of Rheology'
+  url: "https://doi.org/10.1122/8.0001243"
+  link_label: "[Link]"
+
 - id: newpaper_Worby2026_SOL
   type: paper
   date: "2026-09-19"
