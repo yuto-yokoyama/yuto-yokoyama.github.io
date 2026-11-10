@@ -6,6 +6,7 @@ baseurl: ""
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
+  - jekyll-sitemap
   # - jekyll-feed
 
 minima:
