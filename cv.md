@@ -90,9 +90,9 @@ permalink: /cv/
 
 <div><strong>2024 Apr – 2025 Mar</strong></div>
 <div>
-  Research Grant for Piping Systems and Other Research, Ihara Science Nakano Memorial Foundation<br>
+  <a href="https://www.ihara-zaidan.or.jp/wp-content/themes/ihara_foundation_v3/page-subsidy/2024_joseiyoukou.pdf">Research Grant for Piping Systems and Other Research, Ihara Science Nakano Memorial Foundation</a><br>
   イハラサイエンス中野記念財団 研究助成事業<br>
-  Funding: <a href="https://www.ihara-zaidan.or.jp/wp-content/themes/ihara_foundation_v3/page-subsidy/2024_joseiyoukou.pdf">JPY 1,000,000 / 1 year</a><br>
+  Funding: JPY 1,000,000 / 1 year<br>
   研究助成額：100万円 / 1年間
 </div>
 
@@ -100,16 +100,16 @@ permalink: /cv/
 <div>
   Grant-in-Aid for JSPS Fellows, Japan Society for the Promotion of Science (JSPS), No. <a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-24KJ2176/">JP24KJ2176</a><br>
   日本学術振興会 科学研究費助成事業（特別研究員奨励費）<br>
-  Funding: JPY 3,770,000 / 3 years (direct costs: JPY 2,900,000; indirect costs: JPY 870,000)<br>
-  研究助成額：377万円 / 3年間（直接経費：290万円、間接経費：87万円）
+  Funding: JPY 3,770,000 / 3 years<br>
+  研究助成額：377万円 / 3年間
 </div>
 
 <div><strong>2022 Apr – 2024 Mar</strong></div>
 <div>
   Grant-in-Aid for JSPS Fellows, Japan Society for the Promotion of Science (JSPS), No. JP22J13343, <a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22KJ1239/">JP22KJ1239</a><br>
   日本学術振興会 科学研究費助成事業（特別研究員奨励費）<br>
-  Funding: JPY 1,700,000 / 2 years (direct costs)<br>
-  研究助成額：170万円 / 2年間（直接経費）
+  Funding: JPY 1,700,000 / 2 years<br>
+  研究助成額：170万円 / 2年間
 </div>
 
 <div><strong>2022 Nov</strong></div>
