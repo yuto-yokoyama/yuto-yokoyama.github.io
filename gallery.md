@@ -20,8 +20,8 @@ permalink: /gallery/
       allowfullscreen></iframe>
   </div>
   <p>Acoustic levitation reveals how a small amount of polymer changes droplet breakup: water fragments into smaller droplets, while a polymer solution stretches into an interconnected web of liquid threads before returning to a single droplet.</p>
-  <p class="gallery-entry__metadata">Gallery of Fluid Motion · APS Division of Fluid Dynamics · 2026 · V4404538</p>
   <p class="gallery-entry__authors">Yuto Yokoyama, Fauzia W. Wardani, Ahmed Muhammad. Azmeer, Dan Foisy, Koji Hasegawa, Max Dhillon, and Tadd T. Truscott</p>
+  <p class="gallery-entry__metadata">Gallery of Fluid Motion · APS Division of Fluid Dynamics · 2026 · V4404538</p>
   <p class="gallery-entry__links">
     <a href="https://gfm.aps.org/meetings/dfd-2026/6afe44d8a7f805354fc2fd95">View on APS Gallery of Fluid Motion</a>
     <a href="https://www.youtube.com/watch?v=5ZHxxkjnazk">Watch on YouTube</a>
