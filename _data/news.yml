@@ -1,3 +1,10 @@
+- id: gallery_droplet_weaves_a_web_2026
+  type: video
+  date: "2026-11-23"
+  text: 'Our video "A Droplet Weaves a Web" for the 2026 APS Gallery of Fluid Motion is now available on the Gallery page.'
+  url: "/gallery/#droplet-weaves-a-web"
+  link_label: "Watch video"
+
 - id: newpaper_Yokoyama2026_flowbirefringence_featured
   type: paper
   date: "2026-11-07"
