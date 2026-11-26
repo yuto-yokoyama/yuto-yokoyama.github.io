@@ -138,7 +138,6 @@ permalink: /cv/
 <div><strong>2026 Nov</strong></div>
 <div>
   <a href="https://gfm.aps.org/">Milton van Dyke Award (Video)</a>, 2026 APS DFD Gallery of Fluid Motion<br>
-  <span lang="ja">2026年 APS DFD Gallery of Fluid Motion 動画部門 Milton van Dyke Award 受賞</span><br>
   <a href="{{ '/gallery/' | relative_url }}#droplet-weaves-a-web">A Droplet Weaves a Web</a>
 </div>
 
