@@ -135,6 +135,13 @@ permalink: /cv/
 
 <div style="display: grid; grid-template-columns: 200px 1fr; row-gap: 12px; column-gap: 16px;">
 
+<div><strong>2026 Nov</strong></div>
+<div>
+  <a href="https://gfm.aps.org/">Milton van Dyke Award (Video)</a>, 2026 APS DFD Gallery of Fluid Motion<br>
+  <span lang="ja">2026年 APS DFD Gallery of Fluid Motion 動画部門 Milton van Dyke Award 受賞</span><br>
+  <a href="{{ '/gallery/' | relative_url }}#droplet-weaves-a-web">A Droplet Weaves a Web</a>
+</div>
+
 <div><strong>2025 Jun</strong></div>
 <div>
   1st Place, Master of Fluid Visualization at ISFV21

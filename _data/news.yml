@@ -1,3 +1,10 @@
+- id: award_milton_van_dyke_2026
+  type: award
+  date: "2026-11-26"
+  text: 'Our video "A Droplet Weaves a Web" received the Milton van Dyke Award (Video) at the 2026 APS DFD Gallery of Fluid Motion.'
+  url: "/gallery/#droplet-weaves-a-web"
+  link_label: "Watch award-winning video"
+
 - id: gallery_droplet_weaves_a_web_2026
   type: video
   date: "2026-11-23"
