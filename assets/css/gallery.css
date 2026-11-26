@@ -2,21 +2,14 @@
   display: inline-block;
   max-width: 100%;
   box-sizing: border-box;
-  padding: var(--space-2) var(--space-3);
-  border: 1px solid #9c7424;
+  padding: 2px var(--space-2);
+  border: 1px solid #d9b85b;
   border-radius: var(--radius-pill);
-  background: #fff4cc;
-  color: #604000;
-  font-size: var(--font-size-metadata);
+  background: #fff3cd;
+  color: #664d03;
+  font-size: var(--font-size-small);
   font-weight: var(--font-weight-strong);
-}
-
-@media (prefers-color-scheme: dark) {
-  .gallery-entry__award-badge {
-    background: #382b12;
-    border-color: #bc964b;
-    color: #f6d887;
-  }
+  line-height: 1.5;
 }
 
 .gallery-entry__metadata,
