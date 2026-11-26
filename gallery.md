@@ -10,7 +10,6 @@ permalink: /gallery/
   <h2 id="droplet-weaves-a-web">A Droplet Weaves a Web</h2>
   <p><span class="gallery-entry__award-badge">Milton van Dyke Award · 2026</span></p>
   <p>Winner of the <a href="https://gfm.aps.org/">2026 APS DFD Milton van Dyke Award (Video)</a>, Gallery of Fluid Motion.<br>
-  <span lang="ja">2026年 APS DFD Gallery of Fluid Motion 動画部門 Milton van Dyke Award 受賞。</span></p>
   <div class="gallery-entry__video">
     <iframe
       src="https://www.youtube-nocookie.com/embed/5ZHxxkjnazk"
